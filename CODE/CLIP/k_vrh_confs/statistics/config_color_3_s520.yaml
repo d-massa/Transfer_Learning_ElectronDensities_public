@@ -1,0 +1,15 @@
+epochs :  800 #200
+batch_size :  32 #64
+k_folds :  5 #5
+learning_rate : 0.00015
+holdout_ratio : 0.15
+seedd: 520
+nrows: 0 #0
+patience: 50
+target: 'k_vrh'
+out_suffix: '_k_vrh_norm_color_3_s420'
+augmentation: False
+normalization: True
+images_type: '../data/data_cleaning/Newdata_normalized_zscore_interval' #, GREY,FT
+images_prefix: 'normalized_data' #fourier_transform, greyscale_data
+clip_model: 'openai/clip-vit-base-patch32'
