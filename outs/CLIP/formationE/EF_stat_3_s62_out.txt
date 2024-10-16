@@ -1,0 +1,1697 @@
+LENGTHS: 503 89
+Directory 'outs_EF_norm_color_3_s62' created.
+Fold 1/5
+Epoch 1/800, Loss: 0.9424, R^2: 0.0146, RMSE: 0.9452
+Fold 1, Epoch 1, Validation R^2: 0.2946, Validation RMSE: 0.9270
+Epoch 2/800, Loss: 0.6865, R^2: 0.2458, RMSE: 0.7969
+Fold 1, Epoch 2, Validation R^2: 0.3675, Validation RMSE: 0.8778
+Epoch 3/800, Loss: 0.7654, R^2: 0.2576, RMSE: 0.8348
+Fold 1, Epoch 3, Validation R^2: 0.1628, Validation RMSE: 1.0099
+Epoch 4/800, Loss: 0.7179, R^2: 0.1736, RMSE: 0.7986
+Fold 1, Epoch 4, Validation R^2: 0.3951, Validation RMSE: 0.8584
+Epoch 5/800, Loss: 0.6460, R^2: 0.3346, RMSE: 0.7828
+Fold 1, Epoch 5, Validation R^2: 0.4367, Validation RMSE: 0.8284
+Epoch 6/800, Loss: 0.5434, R^2: 0.4386, RMSE: 0.7007
+Fold 1, Epoch 6, Validation R^2: 0.4661, Validation RMSE: 0.8064
+Epoch 7/800, Loss: 0.5258, R^2: 0.4518, RMSE: 0.6962
+Fold 1, Epoch 7, Validation R^2: 0.4834, Validation RMSE: 0.7933
+Epoch 8/800, Loss: 0.5258, R^2: 0.4331, RMSE: 0.7064
+Fold 1, Epoch 8, Validation R^2: 0.5213, Validation RMSE: 0.7637
+Epoch 9/800, Loss: 0.5266, R^2: 0.4360, RMSE: 0.6822
+Fold 1, Epoch 9, Validation R^2: 0.4869, Validation RMSE: 0.7906
+Epoch 10/800, Loss: 0.5226, R^2: 0.4639, RMSE: 0.6920
+Fold 1, Epoch 10, Validation R^2: 0.4560, Validation RMSE: 0.8140
+Epoch 11/800, Loss: 0.5214, R^2: 0.4919, RMSE: 0.6828
+Fold 1, Epoch 11, Validation R^2: 0.4649, Validation RMSE: 0.8073
+Epoch 12/800, Loss: 0.4831, R^2: 0.5245, RMSE: 0.6793
+Fold 1, Epoch 12, Validation R^2: 0.4827, Validation RMSE: 0.7939
+Epoch 13/800, Loss: 0.4486, R^2: 0.5385, RMSE: 0.6458
+Fold 1, Epoch 13, Validation R^2: 0.4887, Validation RMSE: 0.7892
+Epoch 14/800, Loss: 0.4394, R^2: 0.5556, RMSE: 0.6482
+Fold 1, Epoch 14, Validation R^2: 0.4938, Validation RMSE: 0.7853
+Epoch 15/800, Loss: 0.4314, R^2: 0.5553, RMSE: 0.6074
+Fold 1, Epoch 15, Validation R^2: 0.4982, Validation RMSE: 0.7818
+Epoch 16/800, Loss: 0.4359, R^2: 0.5585, RMSE: 0.6275
+Fold 1, Epoch 16, Validation R^2: 0.5280, Validation RMSE: 0.7583
+Epoch 17/800, Loss: 0.4602, R^2: 0.5561, RMSE: 0.6575
+Fold 1, Epoch 17, Validation R^2: 0.5008, Validation RMSE: 0.7798
+Epoch 18/800, Loss: 0.4296, R^2: 0.5387, RMSE: 0.6328
+Fold 1, Epoch 18, Validation R^2: 0.5620, Validation RMSE: 0.7305
+Epoch 19/800, Loss: 0.4374, R^2: 0.5201, RMSE: 0.6427
+Fold 1, Epoch 19, Validation R^2: 0.5942, Validation RMSE: 0.7031
+Epoch 20/800, Loss: 0.4180, R^2: 0.5108, RMSE: 0.6332
+Fold 1, Epoch 20, Validation R^2: 0.5975, Validation RMSE: 0.7003
+Epoch 21/800, Loss: 0.4200, R^2: 0.4929, RMSE: 0.6320
+Fold 1, Epoch 21, Validation R^2: 0.5997, Validation RMSE: 0.6983
+Epoch 22/800, Loss: 0.4145, R^2: 0.5747, RMSE: 0.6303
+Fold 1, Epoch 22, Validation R^2: 0.6011, Validation RMSE: 0.6971
+Epoch 23/800, Loss: 0.8404, R^2: 0.1224, RMSE: 0.8654
+Fold 1, Epoch 23, Validation R^2: -0.0393, Validation RMSE: 1.1252
+Epoch 24/800, Loss: 0.9781, R^2: 0.0049, RMSE: 0.9763
+Fold 1, Epoch 24, Validation R^2: 0.1186, Validation RMSE: 1.0362
+Epoch 25/800, Loss: 0.7730, R^2: 0.1673, RMSE: 0.8314
+Fold 1, Epoch 25, Validation R^2: 0.1787, Validation RMSE: 1.0002
+Epoch 26/800, Loss: 0.7384, R^2: 0.2629, RMSE: 0.8205
+Fold 1, Epoch 26, Validation R^2: 0.1705, Validation RMSE: 1.0052
+Epoch 27/800, Loss: 0.6816, R^2: 0.2914, RMSE: 0.7929
+Fold 1, Epoch 27, Validation R^2: 0.1741, Validation RMSE: 1.0031
+Epoch 28/800, Loss: 0.6356, R^2: 0.3623, RMSE: 0.7635
+Fold 1, Epoch 28, Validation R^2: 0.1884, Validation RMSE: 0.9943
+Epoch 29/800, Loss: 0.6075, R^2: 0.3964, RMSE: 0.7380
+Fold 1, Epoch 29, Validation R^2: 0.2091, Validation RMSE: 0.9815
+Epoch 30/800, Loss: 1.0331, R^2: -0.0257, RMSE: 0.9710
+Fold 1, Epoch 30, Validation R^2: -0.0479, Validation RMSE: 1.1298
+Epoch 31/800, Loss: 1.0780, R^2: -0.0467, RMSE: 1.0033
+Fold 1, Epoch 31, Validation R^2: -0.0109, Validation RMSE: 1.1097
+Epoch 32/800, Loss: 1.0238, R^2: -0.0328, RMSE: 0.9910
+Fold 1, Epoch 32, Validation R^2: 0.0005, Validation RMSE: 1.1034
+Epoch 33/800, Loss: 0.9861, R^2: -0.2078, RMSE: 0.9426
+Fold 1, Epoch 33, Validation R^2: -0.0008, Validation RMSE: 1.1041
+Epoch 34/800, Loss: 1.0123, R^2: -0.0537, RMSE: 0.9912
+Fold 1, Epoch 34, Validation R^2: -0.0047, Validation RMSE: 1.1063
+Epoch 35/800, Loss: 0.9889, R^2: -0.0270, RMSE: 0.9586
+Fold 1, Epoch 35, Validation R^2: -0.0023, Validation RMSE: 1.1050
+Epoch 36/800, Loss: 0.9671, R^2: -0.0424, RMSE: 0.9438
+Fold 1, Epoch 36, Validation R^2: -0.0035, Validation RMSE: 1.1056
+Epoch 37/800, Loss: 0.9306, R^2: -0.0160, RMSE: 0.9304
+Fold 1, Epoch 37, Validation R^2: -0.0012, Validation RMSE: 1.1044
+Epoch 38/800, Loss: 0.8733, R^2: 0.1026, RMSE: 0.8869
+Fold 1, Epoch 38, Validation R^2: -0.0102, Validation RMSE: 1.1093
+Epoch 39/800, Loss: 0.9194, R^2: 0.1110, RMSE: 0.9160
+Fold 1, Epoch 39, Validation R^2: -0.0067, Validation RMSE: 1.1074
+Epoch 40/800, Loss: 1.2393, R^2: -1.4021, RMSE: 1.0459
+Fold 1, Epoch 40, Validation R^2: -0.8833, Validation RMSE: 1.5146
+Epoch 41/800, Loss: 1.3552, R^2: -0.4598, RMSE: 1.1285
+Fold 1, Epoch 41, Validation R^2: -0.0257, Validation RMSE: 1.1178
+Epoch 42/800, Loss: 0.9930, R^2: -0.0443, RMSE: 0.9607
+Fold 1, Epoch 42, Validation R^2: 0.0022, Validation RMSE: 1.1025
+Epoch 43/800, Loss: 0.9840, R^2: -0.2852, RMSE: 0.9539
+Fold 1, Epoch 43, Validation R^2: 0.0054, Validation RMSE: 1.1007
+Epoch 44/800, Loss: 1.0184, R^2: -0.0555, RMSE: 0.9702
+Fold 1, Epoch 44, Validation R^2: 0.0035, Validation RMSE: 1.1018
+Epoch 45/800, Loss: 0.9723, R^2: -0.0065, RMSE: 0.9539
+Fold 1, Epoch 45, Validation R^2: 0.0788, Validation RMSE: 1.0593
+Epoch 46/800, Loss: 0.8167, R^2: 0.1826, RMSE: 0.8734
+Fold 1, Epoch 46, Validation R^2: 0.3187, Validation RMSE: 0.9110
+Epoch 47/800, Loss: 0.6890, R^2: 0.2715, RMSE: 0.7876
+Fold 1, Epoch 47, Validation R^2: 0.2216, Validation RMSE: 0.9737
+Epoch 48/800, Loss: 0.6750, R^2: 0.3415, RMSE: 0.7715
+Fold 1, Epoch 48, Validation R^2: 0.3300, Validation RMSE: 0.9034
+Epoch 49/800, Loss: 0.9167, R^2: -0.0301, RMSE: 0.9344
+Fold 1, Epoch 49, Validation R^2: 0.0643, Validation RMSE: 1.0676
+Epoch 50/800, Loss: 0.8756, R^2: 0.1090, RMSE: 0.8905
+Fold 1, Epoch 50, Validation R^2: 0.2570, Validation RMSE: 0.9514
+Epoch 51/800, Loss: 0.6878, R^2: 0.3103, RMSE: 0.7725
+Fold 1, Epoch 51, Validation R^2: 0.2802, Validation RMSE: 0.9364
+Epoch 52/800, Loss: 0.6387, R^2: 0.3033, RMSE: 0.7664
+Fold 1, Epoch 52, Validation R^2: 0.4066, Validation RMSE: 0.8502
+Epoch 53/800, Loss: 0.6651, R^2: 0.2260, RMSE: 0.7873
+Fold 1, Epoch 53, Validation R^2: 0.4232, Validation RMSE: 0.8382
+Epoch 54/800, Loss: 0.5919, R^2: 0.3507, RMSE: 0.7506
+Fold 1, Epoch 54, Validation R^2: 0.2750, Validation RMSE: 0.9398
+Epoch 55/800, Loss: 0.6099, R^2: 0.3018, RMSE: 0.7589
+Fold 1, Epoch 55, Validation R^2: 0.2811, Validation RMSE: 0.9358
+Epoch 56/800, Loss: 0.6346, R^2: 0.3643, RMSE: 0.7678
+Fold 1, Epoch 56, Validation R^2: 0.2837, Validation RMSE: 0.9341
+Epoch 57/800, Loss: 0.5587, R^2: 0.4244, RMSE: 0.7047
+Fold 1, Epoch 57, Validation R^2: 0.1811, Validation RMSE: 0.9988
+Epoch 58/800, Loss: 0.6128, R^2: 0.4356, RMSE: 0.7380
+Fold 1, Epoch 58, Validation R^2: 0.2363, Validation RMSE: 0.9645
+Epoch 59/800, Loss: 0.5675, R^2: 0.4300, RMSE: 0.7165
+Fold 1, Epoch 59, Validation R^2: 0.3023, Validation RMSE: 0.9219
+Epoch 60/800, Loss: 0.4714, R^2: 0.4703, RMSE: 0.6634
+Fold 1, Epoch 60, Validation R^2: 0.4812, Validation RMSE: 0.7950
+Epoch 61/800, Loss: 0.4971, R^2: 0.4522, RMSE: 0.6839
+Fold 1, Epoch 61, Validation R^2: 0.4718, Validation RMSE: 0.8022
+Epoch 62/800, Loss: 0.5912, R^2: 0.3235, RMSE: 0.7551
+Fold 1, Epoch 62, Validation R^2: 0.4921, Validation RMSE: 0.7866
+Epoch 63/800, Loss: 0.4933, R^2: 0.4625, RMSE: 0.6704
+Fold 1, Epoch 63, Validation R^2: 0.2892, Validation RMSE: 0.9305
+Epoch 64/800, Loss: 0.5364, R^2: 0.4029, RMSE: 0.7079
+Fold 1, Epoch 64, Validation R^2: 0.2862, Validation RMSE: 0.9325
+Epoch 65/800, Loss: 0.5157, R^2: 0.3123, RMSE: 0.6633
+Fold 1, Epoch 65, Validation R^2: 0.1951, Validation RMSE: 0.9902
+Epoch 66/800, Loss: 0.5507, R^2: 0.4692, RMSE: 0.7030
+Fold 1, Epoch 66, Validation R^2: 0.2241, Validation RMSE: 0.9722
+Epoch 67/800, Loss: 0.5141, R^2: 0.4921, RMSE: 0.6844
+Fold 1, Epoch 67, Validation R^2: 0.2389, Validation RMSE: 0.9629
+Epoch 68/800, Loss: 0.5748, R^2: 0.4472, RMSE: 0.7062
+Fold 1, Epoch 68, Validation R^2: 0.2708, Validation RMSE: 0.9425
+Epoch 69/800, Loss: 0.5242, R^2: 0.4611, RMSE: 0.6912
+Fold 1, Epoch 69, Validation R^2: 0.4824, Validation RMSE: 0.7941
+Epoch 70/800, Loss: 0.4435, R^2: 0.5525, RMSE: 0.6409
+Fold 1, Epoch 70, Validation R^2: 0.2799, Validation RMSE: 0.9366
+Epoch 71/800, Loss: 0.4681, R^2: 0.3475, RMSE: 0.6535
+Fold 1, Epoch 71, Validation R^2: 0.4261, Validation RMSE: 0.8362
+Epoch 72/800, Loss: 0.4036, R^2: 0.6017, RMSE: 0.6078
+Fold 1, Epoch 72, Validation R^2: 0.5708, Validation RMSE: 0.7231
+Early stopping for rmse at epoch 72
+Fold 2/5
+Epoch 1/800, Loss: 0.8765, R^2: 0.0947, RMSE: 0.9057
+Fold 2, Epoch 1, Validation R^2: 0.2336, Validation RMSE: 0.9237
+Epoch 2/800, Loss: 0.6623, R^2: 0.3543, RMSE: 0.7865
+Fold 2, Epoch 2, Validation R^2: 0.2864, Validation RMSE: 0.8913
+Epoch 3/800, Loss: 0.6275, R^2: 0.2774, RMSE: 0.7528
+Fold 2, Epoch 3, Validation R^2: 0.2300, Validation RMSE: 0.9259
+Epoch 4/800, Loss: 0.6341, R^2: 0.2323, RMSE: 0.7758
+Fold 2, Epoch 4, Validation R^2: 0.1585, Validation RMSE: 0.9680
+Epoch 5/800, Loss: 0.6022, R^2: 0.3866, RMSE: 0.7573
+Fold 2, Epoch 5, Validation R^2: 0.1911, Validation RMSE: 0.9490
+Epoch 6/800, Loss: 0.5811, R^2: 0.4150, RMSE: 0.7394
+Fold 2, Epoch 6, Validation R^2: 0.3791, Validation RMSE: 0.8315
+Epoch 7/800, Loss: 0.5169, R^2: 0.4492, RMSE: 0.7028
+Fold 2, Epoch 7, Validation R^2: 0.3262, Validation RMSE: 0.8662
+Epoch 8/800, Loss: 0.5148, R^2: 0.4892, RMSE: 0.6877
+Fold 2, Epoch 8, Validation R^2: 0.4032, Validation RMSE: 0.8151
+Epoch 9/800, Loss: 0.5176, R^2: 0.4421, RMSE: 0.6852
+Fold 2, Epoch 9, Validation R^2: 0.4050, Validation RMSE: 0.8139
+Epoch 10/800, Loss: 0.5643, R^2: 0.4061, RMSE: 0.7266
+Fold 2, Epoch 10, Validation R^2: -0.0404, Validation RMSE: 1.0763
+Epoch 11/800, Loss: 0.6185, R^2: 0.3369, RMSE: 0.7719
+Fold 2, Epoch 11, Validation R^2: 0.4195, Validation RMSE: 0.8039
+Epoch 12/800, Loss: 0.5538, R^2: 0.4288, RMSE: 0.7210
+Fold 2, Epoch 12, Validation R^2: 0.2549, Validation RMSE: 0.9108
+Epoch 13/800, Loss: 0.5508, R^2: 0.4628, RMSE: 0.7201
+Fold 2, Epoch 13, Validation R^2: 0.3176, Validation RMSE: 0.8716
+Epoch 14/800, Loss: 0.5090, R^2: 0.5400, RMSE: 0.6835
+Fold 2, Epoch 14, Validation R^2: 0.3208, Validation RMSE: 0.8696
+Epoch 15/800, Loss: 0.5092, R^2: 0.4995, RMSE: 0.6996
+Fold 2, Epoch 15, Validation R^2: 0.4149, Validation RMSE: 0.8071
+Epoch 16/800, Loss: 0.4594, R^2: 0.5361, RMSE: 0.6544
+Fold 2, Epoch 16, Validation R^2: 0.4563, Validation RMSE: 0.7781
+Epoch 17/800, Loss: 0.4033, R^2: 0.5763, RMSE: 0.6215
+Fold 2, Epoch 17, Validation R^2: 0.4868, Validation RMSE: 0.7559
+Epoch 18/800, Loss: 0.3941, R^2: 0.6160, RMSE: 0.6076
+Fold 2, Epoch 18, Validation R^2: 0.5275, Validation RMSE: 0.7253
+Epoch 19/800, Loss: 0.3668, R^2: 0.6296, RMSE: 0.5892
+Fold 2, Epoch 19, Validation R^2: 0.5300, Validation RMSE: 0.7234
+Epoch 20/800, Loss: 0.3771, R^2: 0.5993, RMSE: 0.5973
+Fold 2, Epoch 20, Validation R^2: 0.5618, Validation RMSE: 0.6985
+Epoch 21/800, Loss: 0.3449, R^2: 0.6724, RMSE: 0.5642
+Fold 2, Epoch 21, Validation R^2: 0.4710, Validation RMSE: 0.7675
+Epoch 22/800, Loss: 0.4200, R^2: 0.5238, RMSE: 0.6252
+Fold 2, Epoch 22, Validation R^2: 0.0993, Validation RMSE: 1.0014
+Epoch 23/800, Loss: 0.4103, R^2: 0.5680, RMSE: 0.6162
+Fold 2, Epoch 23, Validation R^2: 0.5720, Validation RMSE: 0.6903
+Epoch 24/800, Loss: 0.3454, R^2: 0.6502, RMSE: 0.5780
+Fold 2, Epoch 24, Validation R^2: 0.5177, Validation RMSE: 0.7328
+Epoch 25/800, Loss: 0.3393, R^2: 0.5762, RMSE: 0.5589
+Fold 2, Epoch 25, Validation R^2: 0.5387, Validation RMSE: 0.7166
+Epoch 26/800, Loss: 0.3145, R^2: 0.6971, RMSE: 0.5438
+Fold 2, Epoch 26, Validation R^2: 0.5786, Validation RMSE: 0.6850
+Epoch 27/800, Loss: 0.2827, R^2: 0.7228, RMSE: 0.5177
+Fold 2, Epoch 27, Validation R^2: 0.5425, Validation RMSE: 0.7137
+Epoch 28/800, Loss: 0.3025, R^2: 0.6949, RMSE: 0.5375
+Fold 2, Epoch 28, Validation R^2: 0.6223, Validation RMSE: 0.6485
+Epoch 29/800, Loss: 0.2855, R^2: 0.6830, RMSE: 0.5196
+Fold 2, Epoch 29, Validation R^2: 0.6331, Validation RMSE: 0.6391
+Epoch 30/800, Loss: 0.2713, R^2: 0.6747, RMSE: 0.5019
+Fold 2, Epoch 30, Validation R^2: 0.3797, Validation RMSE: 0.8311
+Epoch 31/800, Loss: 0.3296, R^2: 0.7018, RMSE: 0.5345
+Fold 2, Epoch 31, Validation R^2: 0.6312, Validation RMSE: 0.6408
+Epoch 32/800, Loss: 0.2648, R^2: 0.7360, RMSE: 0.4859
+Fold 2, Epoch 32, Validation R^2: 0.6040, Validation RMSE: 0.6640
+Epoch 33/800, Loss: 0.2554, R^2: 0.7358, RMSE: 0.4838
+Fold 2, Epoch 33, Validation R^2: 0.6328, Validation RMSE: 0.6394
+Epoch 34/800, Loss: 0.2521, R^2: 0.7269, RMSE: 0.4922
+Fold 2, Epoch 34, Validation R^2: 0.6260, Validation RMSE: 0.6453
+Epoch 35/800, Loss: 0.2609, R^2: 0.7141, RMSE: 0.4962
+Fold 2, Epoch 35, Validation R^2: 0.6035, Validation RMSE: 0.6644
+Epoch 36/800, Loss: 0.2700, R^2: 0.7202, RMSE: 0.4939
+Fold 2, Epoch 36, Validation R^2: 0.6002, Validation RMSE: 0.6671
+Epoch 37/800, Loss: 0.3003, R^2: 0.6598, RMSE: 0.5245
+Fold 2, Epoch 37, Validation R^2: 0.6246, Validation RMSE: 0.6465
+Epoch 38/800, Loss: 0.2629, R^2: 0.7423, RMSE: 0.4964
+Fold 2, Epoch 38, Validation R^2: 0.6552, Validation RMSE: 0.6196
+Epoch 39/800, Loss: 0.2575, R^2: 0.7525, RMSE: 0.4881
+Fold 2, Epoch 39, Validation R^2: 0.6160, Validation RMSE: 0.6538
+Epoch 40/800, Loss: 0.2344, R^2: 0.7619, RMSE: 0.4691
+Fold 2, Epoch 40, Validation R^2: 0.6447, Validation RMSE: 0.6290
+Epoch 41/800, Loss: 0.2360, R^2: 0.7363, RMSE: 0.4708
+Fold 2, Epoch 41, Validation R^2: 0.5861, Validation RMSE: 0.6788
+Epoch 42/800, Loss: 0.2417, R^2: 0.7808, RMSE: 0.4573
+Fold 2, Epoch 42, Validation R^2: 0.6462, Validation RMSE: 0.6276
+Epoch 43/800, Loss: 0.2246, R^2: 0.7641, RMSE: 0.4587
+Fold 2, Epoch 43, Validation R^2: 0.5834, Validation RMSE: 0.6811
+Epoch 44/800, Loss: 0.2391, R^2: 0.7628, RMSE: 0.4612
+Fold 2, Epoch 44, Validation R^2: 0.5914, Validation RMSE: 0.6745
+Epoch 45/800, Loss: 0.2381, R^2: 0.7753, RMSE: 0.4700
+Fold 2, Epoch 45, Validation R^2: 0.6592, Validation RMSE: 0.6160
+Epoch 46/800, Loss: 0.2296, R^2: 0.7647, RMSE: 0.4626
+Fold 2, Epoch 46, Validation R^2: 0.6407, Validation RMSE: 0.6325
+Epoch 47/800, Loss: 0.1986, R^2: 0.7789, RMSE: 0.4272
+Fold 2, Epoch 47, Validation R^2: 0.5948, Validation RMSE: 0.6716
+Epoch 48/800, Loss: 0.2011, R^2: 0.8177, RMSE: 0.4280
+Fold 2, Epoch 48, Validation R^2: 0.6292, Validation RMSE: 0.6425
+Epoch 49/800, Loss: 0.1759, R^2: 0.8310, RMSE: 0.3997
+Fold 2, Epoch 49, Validation R^2: 0.6232, Validation RMSE: 0.6477
+Epoch 50/800, Loss: 0.1796, R^2: 0.8295, RMSE: 0.4023
+Fold 2, Epoch 50, Validation R^2: 0.6316, Validation RMSE: 0.6404
+Epoch 51/800, Loss: 0.1566, R^2: 0.8520, RMSE: 0.3666
+Fold 2, Epoch 51, Validation R^2: 0.6627, Validation RMSE: 0.6128
+Epoch 52/800, Loss: 0.1461, R^2: 0.8461, RMSE: 0.3589
+Fold 2, Epoch 52, Validation R^2: 0.6085, Validation RMSE: 0.6602
+Epoch 53/800, Loss: 0.1535, R^2: 0.8271, RMSE: 0.3634
+Fold 2, Epoch 53, Validation R^2: 0.6229, Validation RMSE: 0.6480
+Epoch 54/800, Loss: 0.1467, R^2: 0.8611, RMSE: 0.3645
+Fold 2, Epoch 54, Validation R^2: 0.6399, Validation RMSE: 0.6331
+Epoch 55/800, Loss: 0.1333, R^2: 0.8767, RMSE: 0.3356
+Fold 2, Epoch 55, Validation R^2: 0.6712, Validation RMSE: 0.6050
+Epoch 56/800, Loss: 0.1281, R^2: 0.8718, RMSE: 0.3369
+Fold 2, Epoch 56, Validation R^2: 0.6603, Validation RMSE: 0.6150
+Epoch 57/800, Loss: 0.1196, R^2: 0.8768, RMSE: 0.3245
+Fold 2, Epoch 57, Validation R^2: 0.6759, Validation RMSE: 0.6007
+Epoch 58/800, Loss: 0.1174, R^2: 0.8829, RMSE: 0.3142
+Fold 2, Epoch 58, Validation R^2: 0.6737, Validation RMSE: 0.6028
+Epoch 59/800, Loss: 0.1160, R^2: 0.8932, RMSE: 0.3161
+Fold 2, Epoch 59, Validation R^2: 0.6632, Validation RMSE: 0.6124
+Epoch 60/800, Loss: 0.1093, R^2: 0.9011, RMSE: 0.3058
+Fold 2, Epoch 60, Validation R^2: 0.6631, Validation RMSE: 0.6124
+Epoch 61/800, Loss: 0.1060, R^2: 0.8902, RMSE: 0.3083
+Fold 2, Epoch 61, Validation R^2: 0.6783, Validation RMSE: 0.5985
+Epoch 62/800, Loss: 0.0999, R^2: 0.9107, RMSE: 0.2921
+Fold 2, Epoch 62, Validation R^2: 0.6710, Validation RMSE: 0.6052
+Epoch 63/800, Loss: 0.1047, R^2: 0.9136, RMSE: 0.2927
+Fold 2, Epoch 63, Validation R^2: 0.6805, Validation RMSE: 0.5964
+Epoch 64/800, Loss: 0.0896, R^2: 0.9188, RMSE: 0.2690
+Fold 2, Epoch 64, Validation R^2: 0.6848, Validation RMSE: 0.5924
+Epoch 65/800, Loss: 0.1051, R^2: 0.9273, RMSE: 0.2708
+Fold 2, Epoch 65, Validation R^2: 0.6811, Validation RMSE: 0.5959
+Epoch 66/800, Loss: 0.0829, R^2: 0.9244, RMSE: 0.2610
+Fold 2, Epoch 66, Validation R^2: 0.6743, Validation RMSE: 0.6022
+Epoch 67/800, Loss: 0.0768, R^2: 0.9305, RMSE: 0.2514
+Fold 2, Epoch 67, Validation R^2: 0.6774, Validation RMSE: 0.5993
+Epoch 68/800, Loss: 0.0756, R^2: 0.9401, RMSE: 0.2344
+Fold 2, Epoch 68, Validation R^2: 0.6901, Validation RMSE: 0.5874
+Epoch 69/800, Loss: 0.0853, R^2: 0.9245, RMSE: 0.2671
+Fold 2, Epoch 69, Validation R^2: 0.6971, Validation RMSE: 0.5808
+Epoch 70/800, Loss: 0.0764, R^2: 0.9318, RMSE: 0.2433
+Fold 2, Epoch 70, Validation R^2: 0.6647, Validation RMSE: 0.6110
+Epoch 71/800, Loss: 0.0718, R^2: 0.9360, RMSE: 0.2378
+Fold 2, Epoch 71, Validation R^2: 0.7100, Validation RMSE: 0.5682
+Epoch 72/800, Loss: 0.0716, R^2: 0.9338, RMSE: 0.2373
+Fold 2, Epoch 72, Validation R^2: 0.7033, Validation RMSE: 0.5748
+Epoch 73/800, Loss: 0.0682, R^2: 0.9393, RMSE: 0.2381
+Fold 2, Epoch 73, Validation R^2: 0.7079, Validation RMSE: 0.5703
+Epoch 74/800, Loss: 0.0752, R^2: 0.9339, RMSE: 0.2405
+Fold 2, Epoch 74, Validation R^2: 0.6855, Validation RMSE: 0.5917
+Epoch 75/800, Loss: 0.0674, R^2: 0.9300, RMSE: 0.2322
+Fold 2, Epoch 75, Validation R^2: 0.6931, Validation RMSE: 0.5846
+Epoch 76/800, Loss: 0.0626, R^2: 0.9400, RMSE: 0.2288
+Fold 2, Epoch 76, Validation R^2: 0.6856, Validation RMSE: 0.5916
+Epoch 77/800, Loss: 0.0611, R^2: 0.9535, RMSE: 0.2072
+Fold 2, Epoch 77, Validation R^2: 0.7042, Validation RMSE: 0.5738
+Epoch 78/800, Loss: 0.0569, R^2: 0.9562, RMSE: 0.2043
+Fold 2, Epoch 78, Validation R^2: 0.6966, Validation RMSE: 0.5812
+Epoch 79/800, Loss: 0.0518, R^2: 0.9579, RMSE: 0.1950
+Fold 2, Epoch 79, Validation R^2: 0.7005, Validation RMSE: 0.5774
+Epoch 80/800, Loss: 0.0508, R^2: 0.9602, RMSE: 0.1904
+Fold 2, Epoch 80, Validation R^2: 0.7010, Validation RMSE: 0.5770
+Epoch 81/800, Loss: 0.0507, R^2: 0.9575, RMSE: 0.1990
+Fold 2, Epoch 81, Validation R^2: 0.7164, Validation RMSE: 0.5619
+Epoch 82/800, Loss: 0.0480, R^2: 0.9600, RMSE: 0.1897
+Fold 2, Epoch 82, Validation R^2: 0.7145, Validation RMSE: 0.5638
+Epoch 83/800, Loss: 0.0486, R^2: 0.9599, RMSE: 0.1937
+Fold 2, Epoch 83, Validation R^2: 0.6933, Validation RMSE: 0.5843
+Epoch 84/800, Loss: 0.0485, R^2: 0.9610, RMSE: 0.1875
+Fold 2, Epoch 84, Validation R^2: 0.7190, Validation RMSE: 0.5593
+Epoch 85/800, Loss: 0.0467, R^2: 0.9574, RMSE: 0.1873
+Fold 2, Epoch 85, Validation R^2: 0.7006, Validation RMSE: 0.5773
+Epoch 86/800, Loss: 0.0454, R^2: 0.9611, RMSE: 0.1893
+Fold 2, Epoch 86, Validation R^2: 0.6992, Validation RMSE: 0.5787
+Epoch 87/800, Loss: 0.0428, R^2: 0.9675, RMSE: 0.1712
+Fold 2, Epoch 87, Validation R^2: 0.6975, Validation RMSE: 0.5803
+Epoch 88/800, Loss: 0.0413, R^2: 0.9667, RMSE: 0.1725
+Fold 2, Epoch 88, Validation R^2: 0.6332, Validation RMSE: 0.6391
+Epoch 89/800, Loss: 0.0399, R^2: 0.9677, RMSE: 0.1674
+Fold 2, Epoch 89, Validation R^2: 0.6372, Validation RMSE: 0.6355
+Epoch 90/800, Loss: 0.0384, R^2: 0.9664, RMSE: 0.1668
+Fold 2, Epoch 90, Validation R^2: 0.6676, Validation RMSE: 0.6084
+Epoch 91/800, Loss: 0.0375, R^2: 0.9700, RMSE: 0.1574
+Fold 2, Epoch 91, Validation R^2: 0.6531, Validation RMSE: 0.6215
+Epoch 92/800, Loss: 0.0367, R^2: 0.9706, RMSE: 0.1525
+Fold 2, Epoch 92, Validation R^2: 0.6524, Validation RMSE: 0.6221
+Epoch 93/800, Loss: 0.0406, R^2: 0.9724, RMSE: 0.1589
+Fold 2, Epoch 93, Validation R^2: 0.6289, Validation RMSE: 0.6428
+Epoch 94/800, Loss: 0.0365, R^2: 0.9654, RMSE: 0.1659
+Fold 2, Epoch 94, Validation R^2: 0.6157, Validation RMSE: 0.6541
+Epoch 95/800, Loss: 0.0357, R^2: 0.9726, RMSE: 0.1527
+Fold 2, Epoch 95, Validation R^2: 0.6268, Validation RMSE: 0.6446
+Epoch 96/800, Loss: 0.0351, R^2: 0.9698, RMSE: 0.1511
+Fold 2, Epoch 96, Validation R^2: 0.6444, Validation RMSE: 0.6292
+Epoch 97/800, Loss: 0.0334, R^2: 0.9733, RMSE: 0.1535
+Fold 2, Epoch 97, Validation R^2: 0.6036, Validation RMSE: 0.6644
+Epoch 98/800, Loss: 0.0342, R^2: 0.9735, RMSE: 0.1575
+Fold 2, Epoch 98, Validation R^2: 0.6258, Validation RMSE: 0.6455
+Epoch 99/800, Loss: 0.0388, R^2: 0.9747, RMSE: 0.1529
+Fold 2, Epoch 99, Validation R^2: 0.6408, Validation RMSE: 0.6324
+Epoch 100/800, Loss: 0.0310, R^2: 0.9771, RMSE: 0.1424
+Fold 2, Epoch 100, Validation R^2: 0.6489, Validation RMSE: 0.6252
+Epoch 101/800, Loss: 0.0320, R^2: 0.9781, RMSE: 0.1408
+Fold 2, Epoch 101, Validation R^2: 0.6638, Validation RMSE: 0.6118
+Epoch 102/800, Loss: 0.0316, R^2: 0.9698, RMSE: 0.1516
+Fold 2, Epoch 102, Validation R^2: 0.6526, Validation RMSE: 0.6219
+Epoch 103/800, Loss: 0.0308, R^2: 0.9765, RMSE: 0.1419
+Fold 2, Epoch 103, Validation R^2: 0.6081, Validation RMSE: 0.6605
+Epoch 104/800, Loss: 0.0307, R^2: 0.9768, RMSE: 0.1451
+Fold 2, Epoch 104, Validation R^2: 0.6005, Validation RMSE: 0.6669
+Epoch 105/800, Loss: 0.0300, R^2: 0.9747, RMSE: 0.1502
+Fold 2, Epoch 105, Validation R^2: 0.6175, Validation RMSE: 0.6526
+Epoch 106/800, Loss: 0.0297, R^2: 0.9735, RMSE: 0.1419
+Fold 2, Epoch 106, Validation R^2: 0.6095, Validation RMSE: 0.6593
+Epoch 107/800, Loss: 0.0299, R^2: 0.9754, RMSE: 0.1485
+Fold 2, Epoch 107, Validation R^2: 0.6401, Validation RMSE: 0.6330
+Epoch 108/800, Loss: 0.0307, R^2: 0.9761, RMSE: 0.1472
+Fold 2, Epoch 108, Validation R^2: 0.6207, Validation RMSE: 0.6498
+Epoch 109/800, Loss: 0.0268, R^2: 0.9785, RMSE: 0.1389
+Fold 2, Epoch 109, Validation R^2: 0.6726, Validation RMSE: 0.6037
+Epoch 110/800, Loss: 0.0288, R^2: 0.9779, RMSE: 0.1403
+Fold 2, Epoch 110, Validation R^2: 0.6779, Validation RMSE: 0.5989
+Epoch 111/800, Loss: 0.0271, R^2: 0.9769, RMSE: 0.1369
+Fold 2, Epoch 111, Validation R^2: 0.6929, Validation RMSE: 0.5848
+Epoch 112/800, Loss: 0.0336, R^2: 0.9751, RMSE: 0.1514
+Fold 2, Epoch 112, Validation R^2: 0.6500, Validation RMSE: 0.6242
+Epoch 113/800, Loss: 0.0318, R^2: 0.9701, RMSE: 0.1597
+Fold 2, Epoch 113, Validation R^2: 0.6703, Validation RMSE: 0.6059
+Epoch 114/800, Loss: 0.0337, R^2: 0.9695, RMSE: 0.1578
+Fold 2, Epoch 114, Validation R^2: 0.6469, Validation RMSE: 0.6270
+Epoch 115/800, Loss: 0.0452, R^2: 0.9636, RMSE: 0.1893
+Fold 2, Epoch 115, Validation R^2: 0.5613, Validation RMSE: 0.6989
+Epoch 116/800, Loss: 0.0467, R^2: 0.9573, RMSE: 0.1951
+Fold 2, Epoch 116, Validation R^2: 0.6610, Validation RMSE: 0.6143
+Epoch 117/800, Loss: 0.0508, R^2: 0.9524, RMSE: 0.2155
+Fold 2, Epoch 117, Validation R^2: 0.5698, Validation RMSE: 0.6921
+Epoch 118/800, Loss: 0.0724, R^2: 0.9364, RMSE: 0.2417
+Fold 2, Epoch 118, Validation R^2: 0.6258, Validation RMSE: 0.6455
+Epoch 119/800, Loss: 0.0787, R^2: 0.9222, RMSE: 0.2704
+Fold 2, Epoch 119, Validation R^2: 0.5978, Validation RMSE: 0.6692
+Epoch 120/800, Loss: 0.0868, R^2: 0.9199, RMSE: 0.2719
+Fold 2, Epoch 120, Validation R^2: 0.5866, Validation RMSE: 0.6785
+Epoch 121/800, Loss: 0.0892, R^2: 0.8969, RMSE: 0.2880
+Fold 2, Epoch 121, Validation R^2: 0.5892, Validation RMSE: 0.6763
+Epoch 122/800, Loss: 0.0701, R^2: 0.9228, RMSE: 0.2564
+Fold 2, Epoch 122, Validation R^2: 0.6885, Validation RMSE: 0.5889
+Epoch 123/800, Loss: 0.0794, R^2: 0.8837, RMSE: 0.2683
+Fold 2, Epoch 123, Validation R^2: 0.6734, Validation RMSE: 0.6031
+Epoch 124/800, Loss: 0.0579, R^2: 0.9406, RMSE: 0.2332
+Fold 2, Epoch 124, Validation R^2: 0.6781, Validation RMSE: 0.5987
+Epoch 125/800, Loss: 0.0495, R^2: 0.9506, RMSE: 0.2093
+Fold 2, Epoch 125, Validation R^2: 0.7292, Validation RMSE: 0.5491
+Epoch 126/800, Loss: 0.0363, R^2: 0.9657, RMSE: 0.1772
+Fold 2, Epoch 126, Validation R^2: 0.7074, Validation RMSE: 0.5708
+Epoch 127/800, Loss: 0.0341, R^2: 0.9714, RMSE: 0.1627
+Fold 2, Epoch 127, Validation R^2: 0.7147, Validation RMSE: 0.5636
+Epoch 128/800, Loss: 0.0276, R^2: 0.9741, RMSE: 0.1512
+Fold 2, Epoch 128, Validation R^2: 0.7122, Validation RMSE: 0.5661
+Epoch 129/800, Loss: 0.0235, R^2: 0.9798, RMSE: 0.1293
+Fold 2, Epoch 129, Validation R^2: 0.7127, Validation RMSE: 0.5656
+Epoch 130/800, Loss: 0.0335, R^2: 0.9720, RMSE: 0.1593
+Fold 2, Epoch 130, Validation R^2: 0.7350, Validation RMSE: 0.5432
+Epoch 131/800, Loss: 0.0304, R^2: 0.9746, RMSE: 0.1540
+Fold 2, Epoch 131, Validation R^2: 0.7063, Validation RMSE: 0.5718
+Epoch 132/800, Loss: 0.0288, R^2: 0.9697, RMSE: 0.1511
+Fold 2, Epoch 132, Validation R^2: 0.7125, Validation RMSE: 0.5658
+Epoch 133/800, Loss: 0.0293, R^2: 0.9730, RMSE: 0.1566
+Fold 2, Epoch 133, Validation R^2: 0.7061, Validation RMSE: 0.5721
+Epoch 134/800, Loss: 0.0255, R^2: 0.9760, RMSE: 0.1431
+Fold 2, Epoch 134, Validation R^2: 0.7242, Validation RMSE: 0.5541
+Epoch 135/800, Loss: 0.0274, R^2: 0.9786, RMSE: 0.1448
+Fold 2, Epoch 135, Validation R^2: 0.7361, Validation RMSE: 0.5421
+Epoch 136/800, Loss: 0.0246, R^2: 0.9811, RMSE: 0.1345
+Fold 2, Epoch 136, Validation R^2: 0.7281, Validation RMSE: 0.5502
+Epoch 137/800, Loss: 0.0240, R^2: 0.9797, RMSE: 0.1336
+Fold 2, Epoch 137, Validation R^2: 0.7461, Validation RMSE: 0.5316
+Epoch 138/800, Loss: 0.0213, R^2: 0.9813, RMSE: 0.1204
+Fold 2, Epoch 138, Validation R^2: 0.7408, Validation RMSE: 0.5372
+Epoch 139/800, Loss: 0.0165, R^2: 0.9872, RMSE: 0.1054
+Fold 2, Epoch 139, Validation R^2: 0.7329, Validation RMSE: 0.5453
+Epoch 140/800, Loss: 0.0163, R^2: 0.9871, RMSE: 0.1038
+Fold 2, Epoch 140, Validation R^2: 0.7359, Validation RMSE: 0.5423
+Epoch 141/800, Loss: 0.0151, R^2: 0.9882, RMSE: 0.0966
+Fold 2, Epoch 141, Validation R^2: 0.7274, Validation RMSE: 0.5510
+Epoch 142/800, Loss: 0.0162, R^2: 0.9886, RMSE: 0.0983
+Fold 2, Epoch 142, Validation R^2: 0.7347, Validation RMSE: 0.5435
+Epoch 143/800, Loss: 0.0135, R^2: 0.9887, RMSE: 0.0927
+Fold 2, Epoch 143, Validation R^2: 0.7239, Validation RMSE: 0.5545
+Epoch 144/800, Loss: 0.0135, R^2: 0.9901, RMSE: 0.0889
+Fold 2, Epoch 144, Validation R^2: 0.7307, Validation RMSE: 0.5476
+Epoch 145/800, Loss: 0.0126, R^2: 0.9909, RMSE: 0.0859
+Fold 2, Epoch 145, Validation R^2: 0.7346, Validation RMSE: 0.5436
+Epoch 146/800, Loss: 0.0122, R^2: 0.9912, RMSE: 0.0839
+Fold 2, Epoch 146, Validation R^2: 0.7324, Validation RMSE: 0.5458
+Epoch 147/800, Loss: 0.0139, R^2: 0.9909, RMSE: 0.0890
+Fold 2, Epoch 147, Validation R^2: 0.7404, Validation RMSE: 0.5376
+Epoch 148/800, Loss: 0.0118, R^2: 0.9905, RMSE: 0.0848
+Fold 2, Epoch 148, Validation R^2: 0.7357, Validation RMSE: 0.5425
+Epoch 149/800, Loss: 0.0114, R^2: 0.9915, RMSE: 0.0837
+Fold 2, Epoch 149, Validation R^2: 0.7331, Validation RMSE: 0.5451
+Epoch 150/800, Loss: 0.0111, R^2: 0.9915, RMSE: 0.0823
+Fold 2, Epoch 150, Validation R^2: 0.7362, Validation RMSE: 0.5420
+Epoch 151/800, Loss: 0.0107, R^2: 0.9925, RMSE: 0.0759
+Fold 2, Epoch 151, Validation R^2: 0.7371, Validation RMSE: 0.5410
+Epoch 152/800, Loss: 0.0103, R^2: 0.9922, RMSE: 0.0756
+Fold 2, Epoch 152, Validation R^2: 0.7360, Validation RMSE: 0.5422
+Epoch 153/800, Loss: 0.0107, R^2: 0.9923, RMSE: 0.0792
+Fold 2, Epoch 153, Validation R^2: 0.7385, Validation RMSE: 0.5396
+Epoch 154/800, Loss: 0.0108, R^2: 0.9925, RMSE: 0.0789
+Fold 2, Epoch 154, Validation R^2: 0.7210, Validation RMSE: 0.5573
+Epoch 155/800, Loss: 0.0102, R^2: 0.9922, RMSE: 0.0797
+Fold 2, Epoch 155, Validation R^2: 0.7397, Validation RMSE: 0.5383
+Epoch 156/800, Loss: 0.0098, R^2: 0.9915, RMSE: 0.0772
+Fold 2, Epoch 156, Validation R^2: 0.7331, Validation RMSE: 0.5451
+Epoch 157/800, Loss: 0.0110, R^2: 0.9927, RMSE: 0.0819
+Fold 2, Epoch 157, Validation R^2: 0.7349, Validation RMSE: 0.5433
+Epoch 158/800, Loss: 0.0118, R^2: 0.9918, RMSE: 0.0813
+Fold 2, Epoch 158, Validation R^2: 0.7401, Validation RMSE: 0.5379
+Epoch 159/800, Loss: 0.0090, R^2: 0.9935, RMSE: 0.0721
+Fold 2, Epoch 159, Validation R^2: 0.7376, Validation RMSE: 0.5405
+Epoch 160/800, Loss: 0.0089, R^2: 0.9933, RMSE: 0.0717
+Fold 2, Epoch 160, Validation R^2: 0.7350, Validation RMSE: 0.5431
+Epoch 161/800, Loss: 0.0090, R^2: 0.9927, RMSE: 0.0744
+Fold 2, Epoch 161, Validation R^2: 0.7344, Validation RMSE: 0.5438
+Epoch 162/800, Loss: 0.0088, R^2: 0.9931, RMSE: 0.0703
+Fold 2, Epoch 162, Validation R^2: 0.7351, Validation RMSE: 0.5431
+Epoch 163/800, Loss: 0.0087, R^2: 0.9933, RMSE: 0.0745
+Fold 2, Epoch 163, Validation R^2: 0.7358, Validation RMSE: 0.5424
+Epoch 164/800, Loss: 0.0086, R^2: 0.9939, RMSE: 0.0707
+Fold 2, Epoch 164, Validation R^2: 0.7327, Validation RMSE: 0.5456
+Epoch 165/800, Loss: 0.0082, R^2: 0.9944, RMSE: 0.0654
+Fold 2, Epoch 165, Validation R^2: 0.7325, Validation RMSE: 0.5458
+Epoch 166/800, Loss: 0.0079, R^2: 0.9947, RMSE: 0.0631
+Fold 2, Epoch 166, Validation R^2: 0.7380, Validation RMSE: 0.5401
+Epoch 167/800, Loss: 0.0075, R^2: 0.9939, RMSE: 0.0681
+Fold 2, Epoch 167, Validation R^2: 0.7364, Validation RMSE: 0.5417
+Epoch 168/800, Loss: 0.0073, R^2: 0.9946, RMSE: 0.0655
+Fold 2, Epoch 168, Validation R^2: 0.7361, Validation RMSE: 0.5420
+Epoch 169/800, Loss: 0.0083, R^2: 0.9940, RMSE: 0.0701
+Fold 2, Epoch 169, Validation R^2: 0.7305, Validation RMSE: 0.5477
+Epoch 170/800, Loss: 0.0092, R^2: 0.9931, RMSE: 0.0784
+Fold 2, Epoch 170, Validation R^2: 0.7337, Validation RMSE: 0.5445
+Epoch 171/800, Loss: 0.0098, R^2: 0.9908, RMSE: 0.0866
+Fold 2, Epoch 171, Validation R^2: 0.7302, Validation RMSE: 0.5481
+Epoch 172/800, Loss: 0.0106, R^2: 0.9913, RMSE: 0.0886
+Fold 2, Epoch 172, Validation R^2: 0.7313, Validation RMSE: 0.5470
+Epoch 173/800, Loss: 0.0116, R^2: 0.9893, RMSE: 0.0989
+Fold 2, Epoch 173, Validation R^2: 0.7267, Validation RMSE: 0.5517
+Epoch 174/800, Loss: 0.0118, R^2: 0.9905, RMSE: 0.0933
+Fold 2, Epoch 174, Validation R^2: 0.7232, Validation RMSE: 0.5551
+Epoch 175/800, Loss: 0.0108, R^2: 0.9920, RMSE: 0.0885
+Fold 2, Epoch 175, Validation R^2: 0.7224, Validation RMSE: 0.5559
+Epoch 176/800, Loss: 0.0090, R^2: 0.9924, RMSE: 0.0828
+Fold 2, Epoch 176, Validation R^2: 0.7340, Validation RMSE: 0.5442
+Epoch 177/800, Loss: 0.0096, R^2: 0.9919, RMSE: 0.0810
+Fold 2, Epoch 177, Validation R^2: 0.7324, Validation RMSE: 0.5459
+Epoch 178/800, Loss: 0.0088, R^2: 0.9924, RMSE: 0.0821
+Fold 2, Epoch 178, Validation R^2: 0.7270, Validation RMSE: 0.5513
+Epoch 179/800, Loss: 0.0080, R^2: 0.9929, RMSE: 0.0785
+Fold 2, Epoch 179, Validation R^2: 0.7273, Validation RMSE: 0.5510
+Epoch 180/800, Loss: 0.0077, R^2: 0.9937, RMSE: 0.0740
+Fold 2, Epoch 180, Validation R^2: 0.7329, Validation RMSE: 0.5453
+Epoch 181/800, Loss: 0.0064, R^2: 0.9947, RMSE: 0.0626
+Fold 2, Epoch 181, Validation R^2: 0.7362, Validation RMSE: 0.5419
+Epoch 182/800, Loss: 0.0061, R^2: 0.9952, RMSE: 0.0587
+Fold 2, Epoch 182, Validation R^2: 0.7395, Validation RMSE: 0.5385
+Epoch 183/800, Loss: 0.0060, R^2: 0.9956, RMSE: 0.0577
+Fold 2, Epoch 183, Validation R^2: 0.7350, Validation RMSE: 0.5432
+Epoch 184/800, Loss: 0.0060, R^2: 0.9959, RMSE: 0.0580
+Fold 2, Epoch 184, Validation R^2: 0.7423, Validation RMSE: 0.5356
+Epoch 185/800, Loss: 0.0058, R^2: 0.9954, RMSE: 0.0576
+Fold 2, Epoch 185, Validation R^2: 0.7366, Validation RMSE: 0.5415
+Epoch 186/800, Loss: 0.0074, R^2: 0.9952, RMSE: 0.0629
+Fold 2, Epoch 186, Validation R^2: 0.7439, Validation RMSE: 0.5340
+Epoch 187/800, Loss: 0.0059, R^2: 0.9959, RMSE: 0.0567
+Fold 2, Epoch 187, Validation R^2: 0.7393, Validation RMSE: 0.5388
+Early stopping for rmse at epoch 187
+Fold 3/5
+Epoch 1/800, Loss: 0.9869, R^2: 0.0866, RMSE: 0.9764
+Fold 3, Epoch 1, Validation R^2: 0.2041, Validation RMSE: 0.8444
+Epoch 2/800, Loss: 0.7769, R^2: 0.2097, RMSE: 0.8581
+Fold 3, Epoch 2, Validation R^2: 0.3273, Validation RMSE: 0.7763
+Epoch 3/800, Loss: 0.6878, R^2: 0.3452, RMSE: 0.8081
+Fold 3, Epoch 3, Validation R^2: 0.4206, Validation RMSE: 0.7204
+Epoch 4/800, Loss: 0.6345, R^2: 0.3837, RMSE: 0.7787
+Fold 3, Epoch 4, Validation R^2: 0.4474, Validation RMSE: 0.7036
+Epoch 5/800, Loss: 0.5944, R^2: 0.4585, RMSE: 0.7496
+Fold 3, Epoch 5, Validation R^2: 0.4848, Validation RMSE: 0.6794
+Epoch 6/800, Loss: 0.5655, R^2: 0.4775, RMSE: 0.7292
+Fold 3, Epoch 6, Validation R^2: 0.5124, Validation RMSE: 0.6609
+Epoch 7/800, Loss: 0.5202, R^2: 0.5240, RMSE: 0.6995
+Fold 3, Epoch 7, Validation R^2: 0.5351, Validation RMSE: 0.6453
+Epoch 8/800, Loss: 0.4994, R^2: 0.5432, RMSE: 0.6770
+Fold 3, Epoch 8, Validation R^2: 0.5626, Validation RMSE: 0.6260
+Epoch 9/800, Loss: 0.4650, R^2: 0.5670, RMSE: 0.6617
+Fold 3, Epoch 9, Validation R^2: 0.5828, Validation RMSE: 0.6114
+Epoch 10/800, Loss: 0.4409, R^2: 0.6038, RMSE: 0.6353
+Fold 3, Epoch 10, Validation R^2: 0.5992, Validation RMSE: 0.5992
+Epoch 11/800, Loss: 0.4159, R^2: 0.6120, RMSE: 0.6267
+Fold 3, Epoch 11, Validation R^2: 0.6132, Validation RMSE: 0.5887
+Epoch 12/800, Loss: 0.3968, R^2: 0.6307, RMSE: 0.5934
+Fold 3, Epoch 12, Validation R^2: 0.6268, Validation RMSE: 0.5782
+Epoch 13/800, Loss: 0.3773, R^2: 0.6513, RMSE: 0.5776
+Fold 3, Epoch 13, Validation R^2: 0.6414, Validation RMSE: 0.5668
+Epoch 14/800, Loss: 0.3668, R^2: 0.6885, RMSE: 0.5622
+Fold 3, Epoch 14, Validation R^2: 0.6543, Validation RMSE: 0.5565
+Epoch 15/800, Loss: 0.3701, R^2: 0.6871, RMSE: 0.5663
+Fold 3, Epoch 15, Validation R^2: 0.6771, Validation RMSE: 0.5378
+Epoch 16/800, Loss: 0.3296, R^2: 0.6888, RMSE: 0.5439
+Fold 3, Epoch 16, Validation R^2: 0.6862, Validation RMSE: 0.5302
+Epoch 17/800, Loss: 0.3155, R^2: 0.7130, RMSE: 0.5358
+Fold 3, Epoch 17, Validation R^2: 0.6920, Validation RMSE: 0.5253
+Epoch 18/800, Loss: 0.3001, R^2: 0.7141, RMSE: 0.5170
+Fold 3, Epoch 18, Validation R^2: 0.6952, Validation RMSE: 0.5225
+Epoch 19/800, Loss: 0.2877, R^2: 0.7575, RMSE: 0.4964
+Fold 3, Epoch 19, Validation R^2: 0.7090, Validation RMSE: 0.5105
+Epoch 20/800, Loss: 0.3075, R^2: 0.7279, RMSE: 0.5095
+Fold 3, Epoch 20, Validation R^2: 0.7095, Validation RMSE: 0.5101
+Epoch 21/800, Loss: 0.2812, R^2: 0.7484, RMSE: 0.5020
+Fold 3, Epoch 21, Validation R^2: 0.7023, Validation RMSE: 0.5164
+Epoch 22/800, Loss: 0.2680, R^2: 0.7658, RMSE: 0.4813
+Fold 3, Epoch 22, Validation R^2: 0.6987, Validation RMSE: 0.5195
+Epoch 23/800, Loss: 0.2566, R^2: 0.7756, RMSE: 0.4851
+Fold 3, Epoch 23, Validation R^2: 0.7206, Validation RMSE: 0.5003
+Epoch 24/800, Loss: 0.2492, R^2: 0.7972, RMSE: 0.4606
+Fold 3, Epoch 24, Validation R^2: 0.7379, Validation RMSE: 0.4845
+Epoch 25/800, Loss: 0.2193, R^2: 0.8185, RMSE: 0.4303
+Fold 3, Epoch 25, Validation R^2: 0.7530, Validation RMSE: 0.4704
+Epoch 26/800, Loss: 0.2247, R^2: 0.8117, RMSE: 0.4451
+Fold 3, Epoch 26, Validation R^2: 0.7718, Validation RMSE: 0.4522
+Epoch 27/800, Loss: 0.2020, R^2: 0.8310, RMSE: 0.4210
+Fold 3, Epoch 27, Validation R^2: 0.7758, Validation RMSE: 0.4481
+Epoch 28/800, Loss: 0.2133, R^2: 0.8335, RMSE: 0.4185
+Fold 3, Epoch 28, Validation R^2: 0.7747, Validation RMSE: 0.4492
+Epoch 29/800, Loss: 0.2177, R^2: 0.8215, RMSE: 0.4338
+Fold 3, Epoch 29, Validation R^2: 0.7656, Validation RMSE: 0.4583
+Epoch 30/800, Loss: 0.1881, R^2: 0.8301, RMSE: 0.4058
+Fold 3, Epoch 30, Validation R^2: 0.7819, Validation RMSE: 0.4420
+Epoch 31/800, Loss: 0.1734, R^2: 0.8599, RMSE: 0.3796
+Fold 3, Epoch 31, Validation R^2: 0.7913, Validation RMSE: 0.4324
+Epoch 32/800, Loss: 0.1640, R^2: 0.8703, RMSE: 0.3540
+Fold 3, Epoch 32, Validation R^2: 0.8172, Validation RMSE: 0.4046
+Epoch 33/800, Loss: 0.1677, R^2: 0.8647, RMSE: 0.3725
+Fold 3, Epoch 33, Validation R^2: 0.8123, Validation RMSE: 0.4100
+Epoch 34/800, Loss: 0.1531, R^2: 0.8835, RMSE: 0.3477
+Fold 3, Epoch 34, Validation R^2: 0.8122, Validation RMSE: 0.4102
+Epoch 35/800, Loss: 0.1524, R^2: 0.8736, RMSE: 0.3570
+Fold 3, Epoch 35, Validation R^2: 0.8166, Validation RMSE: 0.4054
+Epoch 36/800, Loss: 0.1342, R^2: 0.9115, RMSE: 0.2870
+Fold 3, Epoch 36, Validation R^2: 0.8193, Validation RMSE: 0.4024
+Epoch 37/800, Loss: 0.1436, R^2: 0.8910, RMSE: 0.3308
+Fold 3, Epoch 37, Validation R^2: 0.8238, Validation RMSE: 0.3973
+Epoch 38/800, Loss: 0.1260, R^2: 0.8979, RMSE: 0.3207
+Fold 3, Epoch 38, Validation R^2: 0.8315, Validation RMSE: 0.3885
+Epoch 39/800, Loss: 0.1198, R^2: 0.9139, RMSE: 0.2899
+Fold 3, Epoch 39, Validation R^2: 0.8329, Validation RMSE: 0.3869
+Epoch 40/800, Loss: 0.1164, R^2: 0.9084, RMSE: 0.3011
+Fold 3, Epoch 40, Validation R^2: 0.8346, Validation RMSE: 0.3850
+Epoch 41/800, Loss: 0.1175, R^2: 0.9049, RMSE: 0.3107
+Fold 3, Epoch 41, Validation R^2: 0.8432, Validation RMSE: 0.3747
+Epoch 42/800, Loss: 0.1132, R^2: 0.9092, RMSE: 0.2948
+Fold 3, Epoch 42, Validation R^2: 0.8417, Validation RMSE: 0.3766
+Epoch 43/800, Loss: 0.1037, R^2: 0.9262, RMSE: 0.2667
+Fold 3, Epoch 43, Validation R^2: 0.8402, Validation RMSE: 0.3783
+Epoch 44/800, Loss: 0.1014, R^2: 0.9130, RMSE: 0.2771
+Fold 3, Epoch 44, Validation R^2: 0.8478, Validation RMSE: 0.3692
+Epoch 45/800, Loss: 0.1097, R^2: 0.9201, RMSE: 0.2853
+Fold 3, Epoch 45, Validation R^2: 0.8478, Validation RMSE: 0.3693
+Epoch 46/800, Loss: 0.0962, R^2: 0.9295, RMSE: 0.2590
+Fold 3, Epoch 46, Validation R^2: 0.8464, Validation RMSE: 0.3710
+Epoch 47/800, Loss: 0.1066, R^2: 0.9200, RMSE: 0.2821
+Fold 3, Epoch 47, Validation R^2: 0.8463, Validation RMSE: 0.3711
+Epoch 48/800, Loss: 0.0909, R^2: 0.9340, RMSE: 0.2517
+Fold 3, Epoch 48, Validation R^2: 0.8428, Validation RMSE: 0.3752
+Epoch 49/800, Loss: 0.1016, R^2: 0.9258, RMSE: 0.2751
+Fold 3, Epoch 49, Validation R^2: 0.8529, Validation RMSE: 0.3630
+Epoch 50/800, Loss: 0.0849, R^2: 0.9310, RMSE: 0.2503
+Fold 3, Epoch 50, Validation R^2: 0.8553, Validation RMSE: 0.3600
+Epoch 51/800, Loss: 0.0883, R^2: 0.9328, RMSE: 0.2579
+Fold 3, Epoch 51, Validation R^2: 0.8583, Validation RMSE: 0.3563
+Epoch 52/800, Loss: 0.0846, R^2: 0.9357, RMSE: 0.2553
+Fold 3, Epoch 52, Validation R^2: 0.8516, Validation RMSE: 0.3646
+Epoch 53/800, Loss: 0.0807, R^2: 0.9341, RMSE: 0.2563
+Fold 3, Epoch 53, Validation R^2: 0.8516, Validation RMSE: 0.3646
+Epoch 54/800, Loss: 0.0816, R^2: 0.9458, RMSE: 0.2358
+Fold 3, Epoch 54, Validation R^2: 0.8418, Validation RMSE: 0.3765
+Epoch 55/800, Loss: 0.0798, R^2: 0.9293, RMSE: 0.2541
+Fold 3, Epoch 55, Validation R^2: 0.8495, Validation RMSE: 0.3671
+Epoch 56/800, Loss: 0.0761, R^2: 0.9401, RMSE: 0.2305
+Fold 3, Epoch 56, Validation R^2: 0.8508, Validation RMSE: 0.3656
+Epoch 57/800, Loss: 0.0726, R^2: 0.9450, RMSE: 0.2286
+Fold 3, Epoch 57, Validation R^2: 0.8624, Validation RMSE: 0.3511
+Epoch 58/800, Loss: 0.0821, R^2: 0.9345, RMSE: 0.2547
+Fold 3, Epoch 58, Validation R^2: 0.8580, Validation RMSE: 0.3567
+Epoch 59/800, Loss: 0.0712, R^2: 0.9395, RMSE: 0.2394
+Fold 3, Epoch 59, Validation R^2: 0.8587, Validation RMSE: 0.3558
+Epoch 60/800, Loss: 0.0785, R^2: 0.9434, RMSE: 0.2379
+Fold 3, Epoch 60, Validation R^2: 0.8639, Validation RMSE: 0.3491
+Epoch 61/800, Loss: 0.0698, R^2: 0.9433, RMSE: 0.2271
+Fold 3, Epoch 61, Validation R^2: 0.8569, Validation RMSE: 0.3580
+Epoch 62/800, Loss: 0.0724, R^2: 0.9400, RMSE: 0.2364
+Fold 3, Epoch 62, Validation R^2: 0.8681, Validation RMSE: 0.3438
+Epoch 63/800, Loss: 0.0637, R^2: 0.9595, RMSE: 0.1976
+Fold 3, Epoch 63, Validation R^2: 0.8661, Validation RMSE: 0.3463
+Epoch 64/800, Loss: 0.0615, R^2: 0.9506, RMSE: 0.2196
+Fold 3, Epoch 64, Validation R^2: 0.8722, Validation RMSE: 0.3384
+Epoch 65/800, Loss: 0.0600, R^2: 0.9505, RMSE: 0.2163
+Fold 3, Epoch 65, Validation R^2: 0.8740, Validation RMSE: 0.3360
+Epoch 66/800, Loss: 0.0596, R^2: 0.9391, RMSE: 0.2199
+Fold 3, Epoch 66, Validation R^2: 0.8741, Validation RMSE: 0.3358
+Epoch 67/800, Loss: 0.0572, R^2: 0.9553, RMSE: 0.2030
+Fold 3, Epoch 67, Validation R^2: 0.8703, Validation RMSE: 0.3409
+Epoch 68/800, Loss: 0.0561, R^2: 0.9550, RMSE: 0.2079
+Fold 3, Epoch 68, Validation R^2: 0.8695, Validation RMSE: 0.3419
+Epoch 69/800, Loss: 0.0559, R^2: 0.9539, RMSE: 0.2036
+Fold 3, Epoch 69, Validation R^2: 0.8772, Validation RMSE: 0.3317
+Epoch 70/800, Loss: 0.0552, R^2: 0.9583, RMSE: 0.2000
+Fold 3, Epoch 70, Validation R^2: 0.8775, Validation RMSE: 0.3312
+Epoch 71/800, Loss: 0.0638, R^2: 0.9530, RMSE: 0.2207
+Fold 3, Epoch 71, Validation R^2: 0.8683, Validation RMSE: 0.3435
+Epoch 72/800, Loss: 0.0544, R^2: 0.9572, RMSE: 0.2043
+Fold 3, Epoch 72, Validation R^2: 0.8697, Validation RMSE: 0.3417
+Epoch 73/800, Loss: 0.0586, R^2: 0.9573, RMSE: 0.2039
+Fold 3, Epoch 73, Validation R^2: 0.8779, Validation RMSE: 0.3308
+Epoch 74/800, Loss: 0.0520, R^2: 0.9568, RMSE: 0.2063
+Fold 3, Epoch 74, Validation R^2: 0.8698, Validation RMSE: 0.3415
+Epoch 75/800, Loss: 0.0568, R^2: 0.9571, RMSE: 0.2036
+Fold 3, Epoch 75, Validation R^2: 0.8633, Validation RMSE: 0.3499
+Epoch 76/800, Loss: 0.0487, R^2: 0.9587, RMSE: 0.1968
+Fold 3, Epoch 76, Validation R^2: 0.8696, Validation RMSE: 0.3418
+Epoch 77/800, Loss: 0.0467, R^2: 0.9594, RMSE: 0.1844
+Fold 3, Epoch 77, Validation R^2: 0.8713, Validation RMSE: 0.3396
+Epoch 78/800, Loss: 0.0524, R^2: 0.9621, RMSE: 0.1948
+Fold 3, Epoch 78, Validation R^2: 0.8630, Validation RMSE: 0.3503
+Epoch 79/800, Loss: 0.0454, R^2: 0.9616, RMSE: 0.1894
+Fold 3, Epoch 79, Validation R^2: 0.8653, Validation RMSE: 0.3473
+Epoch 80/800, Loss: 0.0545, R^2: 0.9570, RMSE: 0.2025
+Fold 3, Epoch 80, Validation R^2: 0.8694, Validation RMSE: 0.3420
+Epoch 81/800, Loss: 0.0543, R^2: 0.9513, RMSE: 0.2143
+Fold 3, Epoch 81, Validation R^2: 0.8392, Validation RMSE: 0.3796
+Epoch 82/800, Loss: 0.0624, R^2: 0.9425, RMSE: 0.2338
+Fold 3, Epoch 82, Validation R^2: 0.8644, Validation RMSE: 0.3486
+Epoch 83/800, Loss: 0.0661, R^2: 0.9519, RMSE: 0.2176
+Fold 3, Epoch 83, Validation R^2: 0.8763, Validation RMSE: 0.3329
+Epoch 84/800, Loss: 0.0684, R^2: 0.9456, RMSE: 0.2381
+Fold 3, Epoch 84, Validation R^2: 0.8810, Validation RMSE: 0.3265
+Epoch 85/800, Loss: 0.1139, R^2: 0.8828, RMSE: 0.3062
+Fold 3, Epoch 85, Validation R^2: 0.7467, Validation RMSE: 0.4764
+Epoch 86/800, Loss: 0.2909, R^2: 0.5782, RMSE: 0.5274
+Fold 3, Epoch 86, Validation R^2: 0.7569, Validation RMSE: 0.4667
+Epoch 87/800, Loss: 0.2170, R^2: 0.7492, RMSE: 0.4434
+Fold 3, Epoch 87, Validation R^2: 0.7723, Validation RMSE: 0.4516
+Epoch 88/800, Loss: 0.1799, R^2: 0.7885, RMSE: 0.4050
+Fold 3, Epoch 88, Validation R^2: 0.7639, Validation RMSE: 0.4599
+Epoch 89/800, Loss: 0.3684, R^2: 0.5630, RMSE: 0.5760
+Fold 3, Epoch 89, Validation R^2: 0.5068, Validation RMSE: 0.6647
+Epoch 90/800, Loss: 0.3032, R^2: 0.6063, RMSE: 0.5398
+Fold 3, Epoch 90, Validation R^2: 0.5345, Validation RMSE: 0.6457
+Epoch 91/800, Loss: 0.2620, R^2: 0.6616, RMSE: 0.4966
+Fold 3, Epoch 91, Validation R^2: 0.7163, Validation RMSE: 0.5041
+Epoch 92/800, Loss: 0.2695, R^2: 0.7294, RMSE: 0.4970
+Fold 3, Epoch 92, Validation R^2: 0.6230, Validation RMSE: 0.5811
+Epoch 93/800, Loss: 0.2063, R^2: 0.7961, RMSE: 0.4388
+Fold 3, Epoch 93, Validation R^2: 0.7096, Validation RMSE: 0.5100
+Epoch 94/800, Loss: 0.2330, R^2: 0.7975, RMSE: 0.4397
+Fold 3, Epoch 94, Validation R^2: 0.7338, Validation RMSE: 0.4883
+Epoch 95/800, Loss: 0.1678, R^2: 0.7521, RMSE: 0.3970
+Fold 3, Epoch 95, Validation R^2: 0.6490, Validation RMSE: 0.5608
+Epoch 96/800, Loss: 0.1281, R^2: 0.8659, RMSE: 0.3540
+Fold 3, Epoch 96, Validation R^2: 0.6626, Validation RMSE: 0.5498
+Epoch 97/800, Loss: 0.1092, R^2: 0.8759, RMSE: 0.3132
+Fold 3, Epoch 97, Validation R^2: 0.7381, Validation RMSE: 0.4843
+Epoch 98/800, Loss: 0.1035, R^2: 0.8956, RMSE: 0.3033
+Fold 3, Epoch 98, Validation R^2: 0.7445, Validation RMSE: 0.4784
+Epoch 99/800, Loss: 0.1337, R^2: 0.8819, RMSE: 0.3404
+Fold 3, Epoch 99, Validation R^2: 0.7776, Validation RMSE: 0.4464
+Epoch 100/800, Loss: 0.1074, R^2: 0.8909, RMSE: 0.3115
+Fold 3, Epoch 100, Validation R^2: 0.7850, Validation RMSE: 0.4389
+Epoch 101/800, Loss: 0.0872, R^2: 0.9171, RMSE: 0.2869
+Fold 3, Epoch 101, Validation R^2: 0.7598, Validation RMSE: 0.4638
+Epoch 102/800, Loss: 0.0876, R^2: 0.9211, RMSE: 0.2840
+Fold 3, Epoch 102, Validation R^2: 0.7905, Validation RMSE: 0.4332
+Epoch 103/800, Loss: 0.0709, R^2: 0.9347, RMSE: 0.2505
+Fold 3, Epoch 103, Validation R^2: 0.7705, Validation RMSE: 0.4534
+Epoch 104/800, Loss: 0.0776, R^2: 0.9276, RMSE: 0.2613
+Fold 3, Epoch 104, Validation R^2: 0.7871, Validation RMSE: 0.4367
+Epoch 105/800, Loss: 0.0717, R^2: 0.9337, RMSE: 0.2600
+Fold 3, Epoch 105, Validation R^2: 0.7920, Validation RMSE: 0.4317
+Epoch 106/800, Loss: 0.0659, R^2: 0.9431, RMSE: 0.2403
+Fold 3, Epoch 106, Validation R^2: 0.8016, Validation RMSE: 0.4216
+Epoch 107/800, Loss: 0.0611, R^2: 0.9436, RMSE: 0.2339
+Fold 3, Epoch 107, Validation R^2: 0.7920, Validation RMSE: 0.4317
+Epoch 108/800, Loss: 0.0633, R^2: 0.9334, RMSE: 0.2416
+Fold 3, Epoch 108, Validation R^2: 0.7924, Validation RMSE: 0.4313
+Epoch 109/800, Loss: 0.0567, R^2: 0.9497, RMSE: 0.2225
+Fold 3, Epoch 109, Validation R^2: 0.8029, Validation RMSE: 0.4202
+Epoch 110/800, Loss: 0.0555, R^2: 0.9506, RMSE: 0.2157
+Fold 3, Epoch 110, Validation R^2: 0.7981, Validation RMSE: 0.4253
+Epoch 111/800, Loss: 0.0548, R^2: 0.9532, RMSE: 0.2127
+Fold 3, Epoch 111, Validation R^2: 0.8163, Validation RMSE: 0.4056
+Epoch 112/800, Loss: 0.0564, R^2: 0.9485, RMSE: 0.2192
+Fold 3, Epoch 112, Validation R^2: 0.8145, Validation RMSE: 0.4077
+Epoch 113/800, Loss: 0.0588, R^2: 0.9418, RMSE: 0.2241
+Fold 3, Epoch 113, Validation R^2: 0.8008, Validation RMSE: 0.4224
+Epoch 114/800, Loss: 0.0539, R^2: 0.9535, RMSE: 0.2140
+Fold 3, Epoch 114, Validation R^2: 0.7971, Validation RMSE: 0.4263
+Epoch 115/800, Loss: 0.0529, R^2: 0.9544, RMSE: 0.2123
+Fold 3, Epoch 115, Validation R^2: 0.8047, Validation RMSE: 0.4182
+Epoch 116/800, Loss: 0.0507, R^2: 0.9570, RMSE: 0.2047
+Fold 3, Epoch 116, Validation R^2: 0.8103, Validation RMSE: 0.4122
+Epoch 117/800, Loss: 0.0479, R^2: 0.9523, RMSE: 0.2000
+Fold 3, Epoch 117, Validation R^2: 0.7971, Validation RMSE: 0.4263
+Epoch 118/800, Loss: 0.0449, R^2: 0.9610, RMSE: 0.1962
+Fold 3, Epoch 118, Validation R^2: 0.8049, Validation RMSE: 0.4181
+Epoch 119/800, Loss: 0.0438, R^2: 0.9673, RMSE: 0.1798
+Fold 3, Epoch 119, Validation R^2: 0.8144, Validation RMSE: 0.4077
+Epoch 120/800, Loss: 0.0423, R^2: 0.9667, RMSE: 0.1799
+Fold 3, Epoch 120, Validation R^2: 0.8118, Validation RMSE: 0.4106
+Epoch 121/800, Loss: 0.0407, R^2: 0.9650, RMSE: 0.1840
+Fold 3, Epoch 121, Validation R^2: 0.8181, Validation RMSE: 0.4037
+Epoch 122/800, Loss: 0.0379, R^2: 0.9578, RMSE: 0.1770
+Fold 3, Epoch 122, Validation R^2: 0.8046, Validation RMSE: 0.4184
+Epoch 123/800, Loss: 0.0354, R^2: 0.9697, RMSE: 0.1651
+Fold 3, Epoch 123, Validation R^2: 0.8091, Validation RMSE: 0.4136
+Epoch 124/800, Loss: 0.0344, R^2: 0.9732, RMSE: 0.1568
+Fold 3, Epoch 124, Validation R^2: 0.8123, Validation RMSE: 0.4100
+Epoch 125/800, Loss: 0.0337, R^2: 0.9719, RMSE: 0.1623
+Fold 3, Epoch 125, Validation R^2: 0.8204, Validation RMSE: 0.4011
+Epoch 126/800, Loss: 0.0363, R^2: 0.9722, RMSE: 0.1624
+Fold 3, Epoch 126, Validation R^2: 0.8127, Validation RMSE: 0.4096
+Epoch 127/800, Loss: 0.0332, R^2: 0.9675, RMSE: 0.1653
+Fold 3, Epoch 127, Validation R^2: 0.8109, Validation RMSE: 0.4116
+Epoch 128/800, Loss: 0.0402, R^2: 0.9702, RMSE: 0.1723
+Fold 3, Epoch 128, Validation R^2: 0.8020, Validation RMSE: 0.4211
+Epoch 129/800, Loss: 0.0484, R^2: 0.9534, RMSE: 0.2048
+Fold 3, Epoch 129, Validation R^2: 0.8172, Validation RMSE: 0.4046
+Epoch 130/800, Loss: 0.0588, R^2: 0.9480, RMSE: 0.2214
+Fold 3, Epoch 130, Validation R^2: 0.7573, Validation RMSE: 0.4662
+Epoch 131/800, Loss: 0.0506, R^2: 0.9536, RMSE: 0.2126
+Fold 3, Epoch 131, Validation R^2: 0.8038, Validation RMSE: 0.4192
+Epoch 132/800, Loss: 0.0478, R^2: 0.9476, RMSE: 0.2056
+Fold 3, Epoch 132, Validation R^2: 0.8275, Validation RMSE: 0.3932
+Epoch 133/800, Loss: 0.0406, R^2: 0.9610, RMSE: 0.1909
+Fold 3, Epoch 133, Validation R^2: 0.8205, Validation RMSE: 0.4010
+Epoch 134/800, Loss: 0.0428, R^2: 0.9691, RMSE: 0.1804
+Fold 3, Epoch 134, Validation R^2: 0.8074, Validation RMSE: 0.4154
+Early stopping for rmse at epoch 134
+Fold 4/5
+Epoch 1/800, Loss: 0.9860, R^2: 0.0473, RMSE: 0.9656
+Fold 4, Epoch 1, Validation R^2: 0.1659, Validation RMSE: 0.8962
+Epoch 2/800, Loss: 0.8226, R^2: 0.1992, RMSE: 0.8631
+Fold 4, Epoch 2, Validation R^2: 0.3248, Validation RMSE: 0.8063
+Epoch 3/800, Loss: 0.7012, R^2: 0.3631, RMSE: 0.7900
+Fold 4, Epoch 3, Validation R^2: 0.3940, Validation RMSE: 0.7639
+Epoch 4/800, Loss: 0.6220, R^2: 0.4305, RMSE: 0.7482
+Fold 4, Epoch 4, Validation R^2: 0.4684, Validation RMSE: 0.7155
+Epoch 5/800, Loss: 0.5707, R^2: 0.4914, RMSE: 0.7098
+Fold 4, Epoch 5, Validation R^2: 0.5137, Validation RMSE: 0.6843
+Epoch 6/800, Loss: 0.5534, R^2: 0.4913, RMSE: 0.7188
+Fold 4, Epoch 6, Validation R^2: 0.5093, Validation RMSE: 0.6874
+Epoch 7/800, Loss: 0.5164, R^2: 0.5201, RMSE: 0.6870
+Fold 4, Epoch 7, Validation R^2: 0.5372, Validation RMSE: 0.6675
+Epoch 8/800, Loss: 0.4834, R^2: 0.5111, RMSE: 0.6489
+Fold 4, Epoch 8, Validation R^2: 0.5759, Validation RMSE: 0.6391
+Epoch 9/800, Loss: 0.4634, R^2: 0.5964, RMSE: 0.6453
+Fold 4, Epoch 9, Validation R^2: 0.5938, Validation RMSE: 0.6254
+Epoch 10/800, Loss: 0.4451, R^2: 0.5914, RMSE: 0.6173
+Fold 4, Epoch 10, Validation R^2: 0.6154, Validation RMSE: 0.6086
+Epoch 11/800, Loss: 0.4163, R^2: 0.6255, RMSE: 0.6137
+Fold 4, Epoch 11, Validation R^2: 0.6393, Validation RMSE: 0.5893
+Epoch 12/800, Loss: 0.3936, R^2: 0.6221, RMSE: 0.5986
+Fold 4, Epoch 12, Validation R^2: 0.6550, Validation RMSE: 0.5763
+Epoch 13/800, Loss: 0.3796, R^2: 0.6672, RMSE: 0.5668
+Fold 4, Epoch 13, Validation R^2: 0.6608, Validation RMSE: 0.5715
+Epoch 14/800, Loss: 0.3636, R^2: 0.6885, RMSE: 0.5500
+Fold 4, Epoch 14, Validation R^2: 0.6851, Validation RMSE: 0.5506
+Epoch 15/800, Loss: 0.3429, R^2: 0.6799, RMSE: 0.5352
+Fold 4, Epoch 15, Validation R^2: 0.6994, Validation RMSE: 0.5380
+Epoch 16/800, Loss: 0.3216, R^2: 0.7219, RMSE: 0.5139
+Fold 4, Epoch 16, Validation R^2: 0.7164, Validation RMSE: 0.5226
+Epoch 17/800, Loss: 0.3063, R^2: 0.7471, RMSE: 0.5043
+Fold 4, Epoch 17, Validation R^2: 0.7212, Validation RMSE: 0.5182
+Epoch 18/800, Loss: 0.3028, R^2: 0.7519, RMSE: 0.5001
+Fold 4, Epoch 18, Validation R^2: 0.7398, Validation RMSE: 0.5005
+Epoch 19/800, Loss: 0.2869, R^2: 0.7703, RMSE: 0.4750
+Fold 4, Epoch 19, Validation R^2: 0.7364, Validation RMSE: 0.5038
+Epoch 20/800, Loss: 0.2804, R^2: 0.7586, RMSE: 0.4896
+Fold 4, Epoch 20, Validation R^2: 0.7481, Validation RMSE: 0.4925
+Epoch 21/800, Loss: 0.2742, R^2: 0.7689, RMSE: 0.4813
+Fold 4, Epoch 21, Validation R^2: 0.7618, Validation RMSE: 0.4789
+Epoch 22/800, Loss: 0.2633, R^2: 0.7587, RMSE: 0.4902
+Fold 4, Epoch 22, Validation R^2: 0.7540, Validation RMSE: 0.4867
+Epoch 23/800, Loss: 0.2513, R^2: 0.7792, RMSE: 0.4674
+Fold 4, Epoch 23, Validation R^2: 0.7570, Validation RMSE: 0.4837
+Epoch 24/800, Loss: 0.2680, R^2: 0.8007, RMSE: 0.4569
+Fold 4, Epoch 24, Validation R^2: 0.7741, Validation RMSE: 0.4664
+Epoch 25/800, Loss: 0.2452, R^2: 0.7877, RMSE: 0.4630
+Fold 4, Epoch 25, Validation R^2: 0.7628, Validation RMSE: 0.4780
+Epoch 26/800, Loss: 0.2360, R^2: 0.8222, RMSE: 0.4282
+Fold 4, Epoch 26, Validation R^2: 0.7736, Validation RMSE: 0.4669
+Epoch 27/800, Loss: 0.2112, R^2: 0.8190, RMSE: 0.4281
+Fold 4, Epoch 27, Validation R^2: 0.8008, Validation RMSE: 0.4380
+Epoch 28/800, Loss: 0.2324, R^2: 0.8448, RMSE: 0.4077
+Fold 4, Epoch 28, Validation R^2: 0.7914, Validation RMSE: 0.4482
+Epoch 29/800, Loss: 0.1993, R^2: 0.8400, RMSE: 0.4048
+Fold 4, Epoch 29, Validation R^2: 0.8073, Validation RMSE: 0.4307
+Epoch 30/800, Loss: 0.1897, R^2: 0.8417, RMSE: 0.3949
+Fold 4, Epoch 30, Validation R^2: 0.7944, Validation RMSE: 0.4449
+Epoch 31/800, Loss: 0.1829, R^2: 0.8587, RMSE: 0.3706
+Fold 4, Epoch 31, Validation R^2: 0.8079, Validation RMSE: 0.4301
+Epoch 32/800, Loss: 0.1806, R^2: 0.8574, RMSE: 0.3754
+Fold 4, Epoch 32, Validation R^2: 0.8352, Validation RMSE: 0.3984
+Epoch 33/800, Loss: 0.1747, R^2: 0.8773, RMSE: 0.3520
+Fold 4, Epoch 33, Validation R^2: 0.8291, Validation RMSE: 0.4057
+Epoch 34/800, Loss: 0.1660, R^2: 0.8542, RMSE: 0.3665
+Fold 4, Epoch 34, Validation R^2: 0.8299, Validation RMSE: 0.4047
+Epoch 35/800, Loss: 0.1584, R^2: 0.8636, RMSE: 0.3665
+Fold 4, Epoch 35, Validation R^2: 0.8209, Validation RMSE: 0.4152
+Epoch 36/800, Loss: 0.1570, R^2: 0.8783, RMSE: 0.3458
+Fold 4, Epoch 36, Validation R^2: 0.8150, Validation RMSE: 0.4221
+Epoch 37/800, Loss: 0.1577, R^2: 0.8844, RMSE: 0.3434
+Fold 4, Epoch 37, Validation R^2: 0.8284, Validation RMSE: 0.4065
+Epoch 38/800, Loss: 0.1581, R^2: 0.8775, RMSE: 0.3536
+Fold 4, Epoch 38, Validation R^2: 0.8198, Validation RMSE: 0.4166
+Epoch 39/800, Loss: 0.1396, R^2: 0.8870, RMSE: 0.3268
+Fold 4, Epoch 39, Validation R^2: 0.8216, Validation RMSE: 0.4145
+Epoch 40/800, Loss: 0.1339, R^2: 0.8915, RMSE: 0.3261
+Fold 4, Epoch 40, Validation R^2: 0.8101, Validation RMSE: 0.4276
+Epoch 41/800, Loss: 0.1301, R^2: 0.8967, RMSE: 0.3042
+Fold 4, Epoch 41, Validation R^2: 0.8130, Validation RMSE: 0.4244
+Epoch 42/800, Loss: 0.1289, R^2: 0.9058, RMSE: 0.3032
+Fold 4, Epoch 42, Validation R^2: 0.8087, Validation RMSE: 0.4292
+Epoch 43/800, Loss: 0.1249, R^2: 0.8997, RMSE: 0.3101
+Fold 4, Epoch 43, Validation R^2: 0.8187, Validation RMSE: 0.4178
+Epoch 44/800, Loss: 0.1230, R^2: 0.9152, RMSE: 0.2883
+Fold 4, Epoch 44, Validation R^2: 0.8124, Validation RMSE: 0.4250
+Epoch 45/800, Loss: 0.1200, R^2: 0.9097, RMSE: 0.2968
+Fold 4, Epoch 45, Validation R^2: 0.8091, Validation RMSE: 0.4288
+Epoch 46/800, Loss: 0.1333, R^2: 0.8917, RMSE: 0.3051
+Fold 4, Epoch 46, Validation R^2: 0.8231, Validation RMSE: 0.4127
+Epoch 47/800, Loss: 0.1462, R^2: 0.8967, RMSE: 0.3272
+Fold 4, Epoch 47, Validation R^2: 0.8074, Validation RMSE: 0.4306
+Epoch 48/800, Loss: 0.1228, R^2: 0.9006, RMSE: 0.3130
+Fold 4, Epoch 48, Validation R^2: 0.8330, Validation RMSE: 0.4010
+Epoch 49/800, Loss: 0.1272, R^2: 0.9042, RMSE: 0.3156
+Fold 4, Epoch 49, Validation R^2: 0.8257, Validation RMSE: 0.4097
+Epoch 50/800, Loss: 0.1218, R^2: 0.9002, RMSE: 0.3163
+Fold 4, Epoch 50, Validation R^2: 0.8171, Validation RMSE: 0.4197
+Epoch 51/800, Loss: 0.1335, R^2: 0.8764, RMSE: 0.3294
+Fold 4, Epoch 51, Validation R^2: 0.8728, Validation RMSE: 0.3500
+Epoch 52/800, Loss: 0.1414, R^2: 0.8706, RMSE: 0.3515
+Fold 4, Epoch 52, Validation R^2: 0.7888, Validation RMSE: 0.4509
+Epoch 53/800, Loss: 0.1517, R^2: 0.8678, RMSE: 0.3619
+Fold 4, Epoch 53, Validation R^2: 0.7848, Validation RMSE: 0.4552
+Epoch 54/800, Loss: 0.1467, R^2: 0.8586, RMSE: 0.3649
+Fold 4, Epoch 54, Validation R^2: 0.8330, Validation RMSE: 0.4010
+Epoch 55/800, Loss: 0.1472, R^2: 0.9004, RMSE: 0.3267
+Fold 4, Epoch 55, Validation R^2: 0.8437, Validation RMSE: 0.3880
+Epoch 56/800, Loss: 0.1133, R^2: 0.8991, RMSE: 0.3127
+Fold 4, Epoch 56, Validation R^2: 0.8138, Validation RMSE: 0.4234
+Epoch 57/800, Loss: 0.1432, R^2: 0.8791, RMSE: 0.3462
+Fold 4, Epoch 57, Validation R^2: 0.8554, Validation RMSE: 0.3732
+Epoch 58/800, Loss: 0.1281, R^2: 0.9047, RMSE: 0.3117
+Fold 4, Epoch 58, Validation R^2: 0.8640, Validation RMSE: 0.3618
+Epoch 59/800, Loss: 0.1027, R^2: 0.8995, RMSE: 0.2940
+Fold 4, Epoch 59, Validation R^2: 0.8457, Validation RMSE: 0.3854
+Epoch 60/800, Loss: 0.1020, R^2: 0.9151, RMSE: 0.2879
+Fold 4, Epoch 60, Validation R^2: 0.8523, Validation RMSE: 0.3772
+Epoch 61/800, Loss: 0.1010, R^2: 0.9125, RMSE: 0.2860
+Fold 4, Epoch 61, Validation R^2: 0.8475, Validation RMSE: 0.3831
+Epoch 62/800, Loss: 0.0929, R^2: 0.9271, RMSE: 0.2668
+Fold 4, Epoch 62, Validation R^2: 0.8629, Validation RMSE: 0.3634
+Epoch 63/800, Loss: 0.0828, R^2: 0.9330, RMSE: 0.2465
+Fold 4, Epoch 63, Validation R^2: 0.8627, Validation RMSE: 0.3637
+Epoch 64/800, Loss: 0.0939, R^2: 0.9378, RMSE: 0.2500
+Fold 4, Epoch 64, Validation R^2: 0.8502, Validation RMSE: 0.3798
+Epoch 65/800, Loss: 0.0751, R^2: 0.9344, RMSE: 0.2492
+Fold 4, Epoch 65, Validation R^2: 0.8651, Validation RMSE: 0.3605
+Epoch 66/800, Loss: 0.0724, R^2: 0.9468, RMSE: 0.2258
+Fold 4, Epoch 66, Validation R^2: 0.8655, Validation RMSE: 0.3599
+Epoch 67/800, Loss: 0.0746, R^2: 0.9408, RMSE: 0.2417
+Fold 4, Epoch 67, Validation R^2: 0.8525, Validation RMSE: 0.3769
+Epoch 68/800, Loss: 0.0783, R^2: 0.9386, RMSE: 0.2472
+Fold 4, Epoch 68, Validation R^2: 0.8645, Validation RMSE: 0.3612
+Epoch 69/800, Loss: 0.0665, R^2: 0.9488, RMSE: 0.2197
+Fold 4, Epoch 69, Validation R^2: 0.8718, Validation RMSE: 0.3513
+Epoch 70/800, Loss: 0.0746, R^2: 0.9511, RMSE: 0.2254
+Fold 4, Epoch 70, Validation R^2: 0.8759, Validation RMSE: 0.3456
+Epoch 71/800, Loss: 0.0631, R^2: 0.9509, RMSE: 0.2152
+Fold 4, Epoch 71, Validation R^2: 0.8642, Validation RMSE: 0.3616
+Epoch 72/800, Loss: 0.0623, R^2: 0.9546, RMSE: 0.2071
+Fold 4, Epoch 72, Validation R^2: 0.8657, Validation RMSE: 0.3596
+Epoch 73/800, Loss: 0.0610, R^2: 0.9566, RMSE: 0.2009
+Fold 4, Epoch 73, Validation R^2: 0.8445, Validation RMSE: 0.3869
+Epoch 74/800, Loss: 0.0760, R^2: 0.9405, RMSE: 0.2424
+Fold 4, Epoch 74, Validation R^2: 0.8467, Validation RMSE: 0.3842
+Epoch 75/800, Loss: 0.0715, R^2: 0.9382, RMSE: 0.2471
+Fold 4, Epoch 75, Validation R^2: 0.8576, Validation RMSE: 0.3703
+Epoch 76/800, Loss: 0.0646, R^2: 0.9491, RMSE: 0.2243
+Fold 4, Epoch 76, Validation R^2: 0.8691, Validation RMSE: 0.3550
+Epoch 77/800, Loss: 0.0610, R^2: 0.9279, RMSE: 0.2260
+Fold 4, Epoch 77, Validation R^2: 0.8596, Validation RMSE: 0.3677
+Epoch 78/800, Loss: 0.0662, R^2: 0.9489, RMSE: 0.2254
+Fold 4, Epoch 78, Validation R^2: 0.8557, Validation RMSE: 0.3728
+Epoch 79/800, Loss: 0.0609, R^2: 0.9513, RMSE: 0.2197
+Fold 4, Epoch 79, Validation R^2: 0.8694, Validation RMSE: 0.3546
+Epoch 80/800, Loss: 0.0553, R^2: 0.9536, RMSE: 0.2048
+Fold 4, Epoch 80, Validation R^2: 0.8579, Validation RMSE: 0.3699
+Epoch 81/800, Loss: 0.0524, R^2: 0.9578, RMSE: 0.1999
+Fold 4, Epoch 81, Validation R^2: 0.8729, Validation RMSE: 0.3498
+Epoch 82/800, Loss: 0.0522, R^2: 0.9547, RMSE: 0.2037
+Fold 4, Epoch 82, Validation R^2: 0.8564, Validation RMSE: 0.3718
+Epoch 83/800, Loss: 0.0493, R^2: 0.9613, RMSE: 0.1875
+Fold 4, Epoch 83, Validation R^2: 0.8569, Validation RMSE: 0.3712
+Epoch 84/800, Loss: 0.0509, R^2: 0.9625, RMSE: 0.1899
+Fold 4, Epoch 84, Validation R^2: 0.8696, Validation RMSE: 0.3543
+Epoch 85/800, Loss: 0.0480, R^2: 0.9595, RMSE: 0.1917
+Fold 4, Epoch 85, Validation R^2: 0.8601, Validation RMSE: 0.3670
+Epoch 86/800, Loss: 0.0525, R^2: 0.9572, RMSE: 0.2009
+Fold 4, Epoch 86, Validation R^2: 0.8627, Validation RMSE: 0.3636
+Epoch 87/800, Loss: 0.0450, R^2: 0.9657, RMSE: 0.1808
+Fold 4, Epoch 87, Validation R^2: 0.8696, Validation RMSE: 0.3544
+Epoch 88/800, Loss: 0.0445, R^2: 0.9665, RMSE: 0.1803
+Fold 4, Epoch 88, Validation R^2: 0.8709, Validation RMSE: 0.3526
+Epoch 89/800, Loss: 0.0438, R^2: 0.9660, RMSE: 0.1792
+Fold 4, Epoch 89, Validation R^2: 0.8667, Validation RMSE: 0.3582
+Epoch 90/800, Loss: 0.0430, R^2: 0.9670, RMSE: 0.1754
+Fold 4, Epoch 90, Validation R^2: 0.8654, Validation RMSE: 0.3601
+Epoch 91/800, Loss: 0.0410, R^2: 0.9694, RMSE: 0.1722
+Fold 4, Epoch 91, Validation R^2: 0.8693, Validation RMSE: 0.3548
+Epoch 92/800, Loss: 0.0403, R^2: 0.9717, RMSE: 0.1619
+Fold 4, Epoch 92, Validation R^2: 0.8674, Validation RMSE: 0.3573
+Epoch 93/800, Loss: 0.0385, R^2: 0.9694, RMSE: 0.1638
+Fold 4, Epoch 93, Validation R^2: 0.8659, Validation RMSE: 0.3593
+Epoch 94/800, Loss: 0.0367, R^2: 0.9667, RMSE: 0.1593
+Fold 4, Epoch 94, Validation R^2: 0.8670, Validation RMSE: 0.3579
+Epoch 95/800, Loss: 0.0376, R^2: 0.9694, RMSE: 0.1662
+Fold 4, Epoch 95, Validation R^2: 0.8736, Validation RMSE: 0.3489
+Epoch 96/800, Loss: 0.0380, R^2: 0.9707, RMSE: 0.1687
+Fold 4, Epoch 96, Validation R^2: 0.8704, Validation RMSE: 0.3533
+Epoch 97/800, Loss: 0.0350, R^2: 0.9737, RMSE: 0.1538
+Fold 4, Epoch 97, Validation R^2: 0.8685, Validation RMSE: 0.3559
+Epoch 98/800, Loss: 0.0320, R^2: 0.9814, RMSE: 0.1251
+Fold 4, Epoch 98, Validation R^2: 0.8725, Validation RMSE: 0.3504
+Epoch 99/800, Loss: 0.0312, R^2: 0.9771, RMSE: 0.1450
+Fold 4, Epoch 99, Validation R^2: 0.8722, Validation RMSE: 0.3508
+Epoch 100/800, Loss: 0.0305, R^2: 0.9741, RMSE: 0.1490
+Fold 4, Epoch 100, Validation R^2: 0.8683, Validation RMSE: 0.3562
+Epoch 101/800, Loss: 0.0300, R^2: 0.9754, RMSE: 0.1476
+Fold 4, Epoch 101, Validation R^2: 0.8729, Validation RMSE: 0.3498
+Epoch 102/800, Loss: 0.0297, R^2: 0.9773, RMSE: 0.1390
+Fold 4, Epoch 102, Validation R^2: 0.8716, Validation RMSE: 0.3516
+Epoch 103/800, Loss: 0.0285, R^2: 0.9802, RMSE: 0.1328
+Fold 4, Epoch 103, Validation R^2: 0.8706, Validation RMSE: 0.3529
+Epoch 104/800, Loss: 0.0340, R^2: 0.9779, RMSE: 0.1446
+Fold 4, Epoch 104, Validation R^2: 0.8738, Validation RMSE: 0.3486
+Epoch 105/800, Loss: 0.0280, R^2: 0.9798, RMSE: 0.1325
+Fold 4, Epoch 105, Validation R^2: 0.8749, Validation RMSE: 0.3470
+Epoch 106/800, Loss: 0.0274, R^2: 0.9796, RMSE: 0.1327
+Fold 4, Epoch 106, Validation R^2: 0.8697, Validation RMSE: 0.3542
+Epoch 107/800, Loss: 0.0262, R^2: 0.9774, RMSE: 0.1402
+Fold 4, Epoch 107, Validation R^2: 0.8806, Validation RMSE: 0.3391
+Epoch 108/800, Loss: 0.0270, R^2: 0.9836, RMSE: 0.1258
+Fold 4, Epoch 108, Validation R^2: 0.8784, Validation RMSE: 0.3421
+Epoch 109/800, Loss: 0.0246, R^2: 0.9822, RMSE: 0.1236
+Fold 4, Epoch 109, Validation R^2: 0.8743, Validation RMSE: 0.3480
+Epoch 110/800, Loss: 0.0268, R^2: 0.9791, RMSE: 0.1367
+Fold 4, Epoch 110, Validation R^2: 0.8799, Validation RMSE: 0.3401
+Epoch 111/800, Loss: 0.0239, R^2: 0.9829, RMSE: 0.1236
+Fold 4, Epoch 111, Validation R^2: 0.8810, Validation RMSE: 0.3386
+Epoch 112/800, Loss: 0.0233, R^2: 0.9831, RMSE: 0.1192
+Fold 4, Epoch 112, Validation R^2: 0.8774, Validation RMSE: 0.3436
+Epoch 113/800, Loss: 0.0230, R^2: 0.9823, RMSE: 0.1283
+Fold 4, Epoch 113, Validation R^2: 0.8750, Validation RMSE: 0.3469
+Epoch 114/800, Loss: 0.0248, R^2: 0.9820, RMSE: 0.1312
+Fold 4, Epoch 114, Validation R^2: 0.8630, Validation RMSE: 0.3632
+Epoch 115/800, Loss: 0.0233, R^2: 0.9814, RMSE: 0.1253
+Fold 4, Epoch 115, Validation R^2: 0.8753, Validation RMSE: 0.3465
+Epoch 116/800, Loss: 0.0228, R^2: 0.9829, RMSE: 0.1269
+Fold 4, Epoch 116, Validation R^2: 0.8826, Validation RMSE: 0.3363
+Epoch 117/800, Loss: 0.0261, R^2: 0.9811, RMSE: 0.1372
+Fold 4, Epoch 117, Validation R^2: 0.8796, Validation RMSE: 0.3406
+Epoch 118/800, Loss: 0.0234, R^2: 0.9817, RMSE: 0.1323
+Fold 4, Epoch 118, Validation R^2: 0.8767, Validation RMSE: 0.3446
+Epoch 119/800, Loss: 0.0266, R^2: 0.9788, RMSE: 0.1431
+Fold 4, Epoch 119, Validation R^2: 0.8727, Validation RMSE: 0.3501
+Epoch 120/800, Loss: 0.0270, R^2: 0.9762, RMSE: 0.1512
+Fold 4, Epoch 120, Validation R^2: 0.8653, Validation RMSE: 0.3601
+Epoch 121/800, Loss: 0.0267, R^2: 0.9759, RMSE: 0.1523
+Fold 4, Epoch 121, Validation R^2: 0.8546, Validation RMSE: 0.3742
+Epoch 122/800, Loss: 0.0289, R^2: 0.9716, RMSE: 0.1560
+Fold 4, Epoch 122, Validation R^2: 0.8412, Validation RMSE: 0.3910
+Epoch 123/800, Loss: 0.0274, R^2: 0.9746, RMSE: 0.1551
+Fold 4, Epoch 123, Validation R^2: 0.8468, Validation RMSE: 0.3841
+Epoch 124/800, Loss: 0.0236, R^2: 0.9796, RMSE: 0.1411
+Fold 4, Epoch 124, Validation R^2: 0.8720, Validation RMSE: 0.3511
+Epoch 125/800, Loss: 0.0210, R^2: 0.9829, RMSE: 0.1266
+Fold 4, Epoch 125, Validation R^2: 0.8737, Validation RMSE: 0.3487
+Epoch 126/800, Loss: 0.0230, R^2: 0.9748, RMSE: 0.1370
+Fold 4, Epoch 126, Validation R^2: 0.8629, Validation RMSE: 0.3633
+Epoch 127/800, Loss: 0.0322, R^2: 0.9685, RMSE: 0.1702
+Fold 4, Epoch 127, Validation R^2: 0.8440, Validation RMSE: 0.3876
+Epoch 128/800, Loss: 0.0523, R^2: 0.9530, RMSE: 0.2152
+Fold 4, Epoch 128, Validation R^2: 0.8058, Validation RMSE: 0.4324
+Epoch 129/800, Loss: 0.0818, R^2: 0.9051, RMSE: 0.2814
+Fold 4, Epoch 129, Validation R^2: 0.8249, Validation RMSE: 0.4106
+Epoch 130/800, Loss: 0.0824, R^2: 0.9085, RMSE: 0.2773
+Fold 4, Epoch 130, Validation R^2: 0.8003, Validation RMSE: 0.4385
+Epoch 131/800, Loss: 0.0859, R^2: 0.9044, RMSE: 0.2849
+Fold 4, Epoch 131, Validation R^2: 0.7975, Validation RMSE: 0.4415
+Epoch 132/800, Loss: 0.0653, R^2: 0.9344, RMSE: 0.2489
+Fold 4, Epoch 132, Validation R^2: 0.8507, Validation RMSE: 0.3792
+Epoch 133/800, Loss: 0.0938, R^2: 0.8933, RMSE: 0.2966
+Fold 4, Epoch 133, Validation R^2: 0.7989, Validation RMSE: 0.4400
+Epoch 134/800, Loss: 0.1071, R^2: 0.8938, RMSE: 0.3146
+Fold 4, Epoch 134, Validation R^2: 0.8215, Validation RMSE: 0.4146
+Epoch 135/800, Loss: 0.0727, R^2: 0.9274, RMSE: 0.2648
+Fold 4, Epoch 135, Validation R^2: 0.7839, Validation RMSE: 0.4562
+Epoch 136/800, Loss: 0.0649, R^2: 0.9213, RMSE: 0.2520
+Fold 4, Epoch 136, Validation R^2: 0.8429, Validation RMSE: 0.3890
+Epoch 137/800, Loss: 0.0849, R^2: 0.9171, RMSE: 0.2739
+Fold 4, Epoch 137, Validation R^2: 0.8225, Validation RMSE: 0.4134
+Epoch 138/800, Loss: 0.0701, R^2: 0.9278, RMSE: 0.2567
+Fold 4, Epoch 138, Validation R^2: 0.8215, Validation RMSE: 0.4145
+Epoch 139/800, Loss: 0.0668, R^2: 0.9142, RMSE: 0.2526
+Fold 4, Epoch 139, Validation R^2: 0.8395, Validation RMSE: 0.3932
+Epoch 140/800, Loss: 0.0635, R^2: 0.9369, RMSE: 0.2418
+Fold 4, Epoch 140, Validation R^2: 0.8623, Validation RMSE: 0.3641
+Epoch 141/800, Loss: 0.0591, R^2: 0.9324, RMSE: 0.2373
+Fold 4, Epoch 141, Validation R^2: 0.8436, Validation RMSE: 0.3880
+Epoch 142/800, Loss: 0.0498, R^2: 0.9495, RMSE: 0.2172
+Fold 4, Epoch 142, Validation R^2: 0.8471, Validation RMSE: 0.3837
+Epoch 143/800, Loss: 0.0534, R^2: 0.9429, RMSE: 0.2291
+Fold 4, Epoch 143, Validation R^2: 0.8214, Validation RMSE: 0.4147
+Epoch 144/800, Loss: 0.0454, R^2: 0.9499, RMSE: 0.2087
+Fold 4, Epoch 144, Validation R^2: 0.8486, Validation RMSE: 0.3819
+Epoch 145/800, Loss: 0.0322, R^2: 0.9680, RMSE: 0.1727
+Fold 4, Epoch 145, Validation R^2: 0.8666, Validation RMSE: 0.3584
+Epoch 146/800, Loss: 0.0306, R^2: 0.9698, RMSE: 0.1719
+Fold 4, Epoch 146, Validation R^2: 0.8757, Validation RMSE: 0.3459
+Epoch 147/800, Loss: 0.0271, R^2: 0.9706, RMSE: 0.1590
+Fold 4, Epoch 147, Validation R^2: 0.8791, Validation RMSE: 0.3411
+Epoch 148/800, Loss: 0.0258, R^2: 0.9740, RMSE: 0.1532
+Fold 4, Epoch 148, Validation R^2: 0.8727, Validation RMSE: 0.3502
+Epoch 149/800, Loss: 0.0217, R^2: 0.9796, RMSE: 0.1382
+Fold 4, Epoch 149, Validation R^2: 0.8781, Validation RMSE: 0.3426
+Epoch 150/800, Loss: 0.0222, R^2: 0.9782, RMSE: 0.1435
+Fold 4, Epoch 150, Validation R^2: 0.8731, Validation RMSE: 0.3495
+Epoch 151/800, Loss: 0.0189, R^2: 0.9798, RMSE: 0.1318
+Fold 4, Epoch 151, Validation R^2: 0.8751, Validation RMSE: 0.3467
+Epoch 152/800, Loss: 0.0225, R^2: 0.9772, RMSE: 0.1435
+Fold 4, Epoch 152, Validation R^2: 0.8848, Validation RMSE: 0.3331
+Epoch 153/800, Loss: 0.0200, R^2: 0.9806, RMSE: 0.1372
+Fold 4, Epoch 153, Validation R^2: 0.8752, Validation RMSE: 0.3467
+Epoch 154/800, Loss: 0.0201, R^2: 0.9808, RMSE: 0.1333
+Fold 4, Epoch 154, Validation R^2: 0.8826, Validation RMSE: 0.3362
+Epoch 155/800, Loss: 0.0211, R^2: 0.9779, RMSE: 0.1379
+Fold 4, Epoch 155, Validation R^2: 0.8706, Validation RMSE: 0.3529
+Epoch 156/800, Loss: 0.0176, R^2: 0.9829, RMSE: 0.1268
+Fold 4, Epoch 156, Validation R^2: 0.8706, Validation RMSE: 0.3530
+Epoch 157/800, Loss: 0.0152, R^2: 0.9865, RMSE: 0.1131
+Fold 4, Epoch 157, Validation R^2: 0.8679, Validation RMSE: 0.3567
+Epoch 158/800, Loss: 0.0135, R^2: 0.9871, RMSE: 0.1083
+Fold 4, Epoch 158, Validation R^2: 0.8732, Validation RMSE: 0.3495
+Epoch 159/800, Loss: 0.0132, R^2: 0.9860, RMSE: 0.1094
+Fold 4, Epoch 159, Validation R^2: 0.8677, Validation RMSE: 0.3569
+Epoch 160/800, Loss: 0.0139, R^2: 0.9863, RMSE: 0.1086
+Fold 4, Epoch 160, Validation R^2: 0.8750, Validation RMSE: 0.3470
+Epoch 161/800, Loss: 0.0110, R^2: 0.9873, RMSE: 0.0971
+Fold 4, Epoch 161, Validation R^2: 0.8746, Validation RMSE: 0.3475
+Epoch 162/800, Loss: 0.0109, R^2: 0.9908, RMSE: 0.0927
+Fold 4, Epoch 162, Validation R^2: 0.8727, Validation RMSE: 0.3502
+Epoch 163/800, Loss: 0.0108, R^2: 0.9908, RMSE: 0.0962
+Fold 4, Epoch 163, Validation R^2: 0.8754, Validation RMSE: 0.3463
+Epoch 164/800, Loss: 0.0096, R^2: 0.9904, RMSE: 0.0921
+Fold 4, Epoch 164, Validation R^2: 0.8766, Validation RMSE: 0.3448
+Epoch 165/800, Loss: 0.0093, R^2: 0.9913, RMSE: 0.0874
+Fold 4, Epoch 165, Validation R^2: 0.8810, Validation RMSE: 0.3385
+Epoch 166/800, Loss: 0.0094, R^2: 0.9919, RMSE: 0.0858
+Fold 4, Epoch 166, Validation R^2: 0.8769, Validation RMSE: 0.3443
+Epoch 167/800, Loss: 0.0085, R^2: 0.9922, RMSE: 0.0834
+Fold 4, Epoch 167, Validation R^2: 0.8817, Validation RMSE: 0.3375
+Epoch 168/800, Loss: 0.0083, R^2: 0.9926, RMSE: 0.0836
+Fold 4, Epoch 168, Validation R^2: 0.8820, Validation RMSE: 0.3371
+Epoch 169/800, Loss: 0.0074, R^2: 0.9937, RMSE: 0.0774
+Fold 4, Epoch 169, Validation R^2: 0.8850, Validation RMSE: 0.3328
+Epoch 170/800, Loss: 0.0070, R^2: 0.9939, RMSE: 0.0748
+Fold 4, Epoch 170, Validation R^2: 0.8799, Validation RMSE: 0.3400
+Epoch 171/800, Loss: 0.0068, R^2: 0.9936, RMSE: 0.0725
+Fold 4, Epoch 171, Validation R^2: 0.8836, Validation RMSE: 0.3348
+Epoch 172/800, Loss: 0.0066, R^2: 0.9937, RMSE: 0.0738
+Fold 4, Epoch 172, Validation R^2: 0.8786, Validation RMSE: 0.3419
+Epoch 173/800, Loss: 0.0063, R^2: 0.9940, RMSE: 0.0707
+Fold 4, Epoch 173, Validation R^2: 0.8834, Validation RMSE: 0.3351
+Epoch 174/800, Loss: 0.0062, R^2: 0.9949, RMSE: 0.0706
+Fold 4, Epoch 174, Validation R^2: 0.8888, Validation RMSE: 0.3273
+Epoch 175/800, Loss: 0.0062, R^2: 0.9937, RMSE: 0.0692
+Fold 4, Epoch 175, Validation R^2: 0.8862, Validation RMSE: 0.3311
+Epoch 176/800, Loss: 0.0057, R^2: 0.9949, RMSE: 0.0672
+Fold 4, Epoch 176, Validation R^2: 0.8838, Validation RMSE: 0.3346
+Epoch 177/800, Loss: 0.0055, R^2: 0.9944, RMSE: 0.0668
+Fold 4, Epoch 177, Validation R^2: 0.8875, Validation RMSE: 0.3292
+Epoch 178/800, Loss: 0.0054, R^2: 0.9952, RMSE: 0.0647
+Fold 4, Epoch 178, Validation R^2: 0.8825, Validation RMSE: 0.3364
+Epoch 179/800, Loss: 0.0053, R^2: 0.9946, RMSE: 0.0634
+Fold 4, Epoch 179, Validation R^2: 0.8878, Validation RMSE: 0.3287
+Epoch 180/800, Loss: 0.0054, R^2: 0.9951, RMSE: 0.0669
+Fold 4, Epoch 180, Validation R^2: 0.8854, Validation RMSE: 0.3322
+Epoch 181/800, Loss: 0.0053, R^2: 0.9947, RMSE: 0.0650
+Fold 4, Epoch 181, Validation R^2: 0.8843, Validation RMSE: 0.3338
+Epoch 182/800, Loss: 0.0054, R^2: 0.9947, RMSE: 0.0681
+Fold 4, Epoch 182, Validation R^2: 0.8759, Validation RMSE: 0.3456
+Epoch 183/800, Loss: 0.0059, R^2: 0.9948, RMSE: 0.0689
+Fold 4, Epoch 183, Validation R^2: 0.8854, Validation RMSE: 0.3322
+Epoch 184/800, Loss: 0.0049, R^2: 0.9955, RMSE: 0.0609
+Fold 4, Epoch 184, Validation R^2: 0.8843, Validation RMSE: 0.3338
+Epoch 185/800, Loss: 0.0050, R^2: 0.9931, RMSE: 0.0643
+Fold 4, Epoch 185, Validation R^2: 0.8874, Validation RMSE: 0.3293
+Epoch 186/800, Loss: 0.0055, R^2: 0.9947, RMSE: 0.0698
+Fold 4, Epoch 186, Validation R^2: 0.8879, Validation RMSE: 0.3285
+Epoch 187/800, Loss: 0.0062, R^2: 0.9941, RMSE: 0.0749
+Fold 4, Epoch 187, Validation R^2: 0.8868, Validation RMSE: 0.3302
+Epoch 188/800, Loss: 0.0067, R^2: 0.9923, RMSE: 0.0764
+Fold 4, Epoch 188, Validation R^2: 0.8901, Validation RMSE: 0.3253
+Epoch 189/800, Loss: 0.0065, R^2: 0.9936, RMSE: 0.0766
+Fold 4, Epoch 189, Validation R^2: 0.8940, Validation RMSE: 0.3194
+Epoch 190/800, Loss: 0.0055, R^2: 0.9944, RMSE: 0.0695
+Fold 4, Epoch 190, Validation R^2: 0.8991, Validation RMSE: 0.3118
+Epoch 191/800, Loss: 0.0054, R^2: 0.9946, RMSE: 0.0693
+Fold 4, Epoch 191, Validation R^2: 0.8820, Validation RMSE: 0.3371
+Epoch 192/800, Loss: 0.0053, R^2: 0.9950, RMSE: 0.0668
+Fold 4, Epoch 192, Validation R^2: 0.8829, Validation RMSE: 0.3358
+Epoch 193/800, Loss: 0.0059, R^2: 0.9942, RMSE: 0.0715
+Fold 4, Epoch 193, Validation R^2: 0.8790, Validation RMSE: 0.3413
+Epoch 194/800, Loss: 0.0053, R^2: 0.9952, RMSE: 0.0689
+Fold 4, Epoch 194, Validation R^2: 0.8759, Validation RMSE: 0.3457
+Epoch 195/800, Loss: 0.0050, R^2: 0.9952, RMSE: 0.0645
+Fold 4, Epoch 195, Validation R^2: 0.8743, Validation RMSE: 0.3479
+Epoch 196/800, Loss: 0.0049, R^2: 0.9956, RMSE: 0.0664
+Fold 4, Epoch 196, Validation R^2: 0.8816, Validation RMSE: 0.3377
+Epoch 197/800, Loss: 0.0039, R^2: 0.9962, RMSE: 0.0574
+Fold 4, Epoch 197, Validation R^2: 0.8738, Validation RMSE: 0.3486
+Epoch 198/800, Loss: 0.0036, R^2: 0.9964, RMSE: 0.0549
+Fold 4, Epoch 198, Validation R^2: 0.8827, Validation RMSE: 0.3361
+Epoch 199/800, Loss: 0.0035, R^2: 0.9968, RMSE: 0.0552
+Fold 4, Epoch 199, Validation R^2: 0.8813, Validation RMSE: 0.3380
+Epoch 200/800, Loss: 0.0036, R^2: 0.9953, RMSE: 0.0559
+Fold 4, Epoch 200, Validation R^2: 0.8870, Validation RMSE: 0.3298
+Epoch 201/800, Loss: 0.0035, R^2: 0.9968, RMSE: 0.0538
+Fold 4, Epoch 201, Validation R^2: 0.8859, Validation RMSE: 0.3315
+Epoch 202/800, Loss: 0.0038, R^2: 0.9955, RMSE: 0.0568
+Fold 4, Epoch 202, Validation R^2: 0.8863, Validation RMSE: 0.3309
+Epoch 203/800, Loss: 0.0036, R^2: 0.9964, RMSE: 0.0570
+Fold 4, Epoch 203, Validation R^2: 0.8900, Validation RMSE: 0.3255
+Epoch 204/800, Loss: 0.0029, R^2: 0.9971, RMSE: 0.0494
+Fold 4, Epoch 204, Validation R^2: 0.8880, Validation RMSE: 0.3283
+Epoch 205/800, Loss: 0.0028, R^2: 0.9974, RMSE: 0.0474
+Fold 4, Epoch 205, Validation R^2: 0.8903, Validation RMSE: 0.3250
+Epoch 206/800, Loss: 0.0026, R^2: 0.9974, RMSE: 0.0459
+Fold 4, Epoch 206, Validation R^2: 0.8900, Validation RMSE: 0.3255
+Epoch 207/800, Loss: 0.0027, R^2: 0.9975, RMSE: 0.0468
+Fold 4, Epoch 207, Validation R^2: 0.8929, Validation RMSE: 0.3211
+Epoch 208/800, Loss: 0.0029, R^2: 0.9969, RMSE: 0.0503
+Fold 4, Epoch 208, Validation R^2: 0.8909, Validation RMSE: 0.3241
+Epoch 209/800, Loss: 0.0026, R^2: 0.9976, RMSE: 0.0464
+Fold 4, Epoch 209, Validation R^2: 0.8900, Validation RMSE: 0.3255
+Epoch 210/800, Loss: 0.0028, R^2: 0.9976, RMSE: 0.0480
+Fold 4, Epoch 210, Validation R^2: 0.8893, Validation RMSE: 0.3266
+Epoch 211/800, Loss: 0.0031, R^2: 0.9967, RMSE: 0.0521
+Fold 4, Epoch 211, Validation R^2: 0.8935, Validation RMSE: 0.3203
+Epoch 212/800, Loss: 0.0043, R^2: 0.9954, RMSE: 0.0609
+Fold 4, Epoch 212, Validation R^2: 0.8880, Validation RMSE: 0.3284
+Epoch 213/800, Loss: 0.0039, R^2: 0.9952, RMSE: 0.0587
+Fold 4, Epoch 213, Validation R^2: 0.8877, Validation RMSE: 0.3289
+Epoch 214/800, Loss: 0.0030, R^2: 0.9969, RMSE: 0.0507
+Fold 4, Epoch 214, Validation R^2: 0.8889, Validation RMSE: 0.3271
+Epoch 215/800, Loss: 0.0027, R^2: 0.9974, RMSE: 0.0482
+Fold 4, Epoch 215, Validation R^2: 0.8906, Validation RMSE: 0.3246
+Epoch 216/800, Loss: 0.0025, R^2: 0.9972, RMSE: 0.0473
+Fold 4, Epoch 216, Validation R^2: 0.8867, Validation RMSE: 0.3303
+Epoch 217/800, Loss: 0.0076, R^2: 0.9914, RMSE: 0.0817
+Fold 4, Epoch 217, Validation R^2: 0.8768, Validation RMSE: 0.3444
+Epoch 218/800, Loss: 0.0171, R^2: 0.9796, RMSE: 0.1236
+Fold 4, Epoch 218, Validation R^2: 0.8784, Validation RMSE: 0.3421
+Epoch 219/800, Loss: 0.0212, R^2: 0.9797, RMSE: 0.1388
+Fold 4, Epoch 219, Validation R^2: 0.8348, Validation RMSE: 0.3989
+Epoch 220/800, Loss: 0.0292, R^2: 0.9707, RMSE: 0.1661
+Fold 4, Epoch 220, Validation R^2: 0.8480, Validation RMSE: 0.3826
+Epoch 221/800, Loss: 0.0450, R^2: 0.9422, RMSE: 0.2024
+Fold 4, Epoch 221, Validation R^2: 0.8391, Validation RMSE: 0.3936
+Epoch 222/800, Loss: 0.0387, R^2: 0.9618, RMSE: 0.1834
+Fold 4, Epoch 222, Validation R^2: 0.8384, Validation RMSE: 0.3944
+Epoch 223/800, Loss: 0.0442, R^2: 0.9410, RMSE: 0.2010
+Fold 4, Epoch 223, Validation R^2: 0.7726, Validation RMSE: 0.4679
+Epoch 224/800, Loss: 0.0399, R^2: 0.9556, RMSE: 0.1928
+Fold 4, Epoch 224, Validation R^2: 0.8169, Validation RMSE: 0.4199
+Epoch 225/800, Loss: 0.0694, R^2: 0.9400, RMSE: 0.2372
+Fold 4, Epoch 225, Validation R^2: 0.8054, Validation RMSE: 0.4329
+Epoch 226/800, Loss: 0.0750, R^2: 0.9263, RMSE: 0.2668
+Fold 4, Epoch 226, Validation R^2: 0.8043, Validation RMSE: 0.4341
+Epoch 227/800, Loss: 0.0502, R^2: 0.9390, RMSE: 0.2189
+Fold 4, Epoch 227, Validation R^2: 0.7902, Validation RMSE: 0.4495
+Epoch 228/800, Loss: 0.1058, R^2: 0.8932, RMSE: 0.2993
+Fold 4, Epoch 228, Validation R^2: 0.6989, Validation RMSE: 0.5385
+Epoch 229/800, Loss: 0.1347, R^2: 0.8053, RMSE: 0.3534
+Fold 4, Epoch 229, Validation R^2: 0.6765, Validation RMSE: 0.5581
+Epoch 230/800, Loss: 0.2228, R^2: 0.7512, RMSE: 0.4412
+Fold 4, Epoch 230, Validation R^2: 0.6076, Validation RMSE: 0.6147
+Epoch 231/800, Loss: 0.1666, R^2: 0.8072, RMSE: 0.3996
+Fold 4, Epoch 231, Validation R^2: 0.6510, Validation RMSE: 0.5797
+Epoch 232/800, Loss: 0.0826, R^2: 0.8885, RMSE: 0.2796
+Fold 4, Epoch 232, Validation R^2: 0.7106, Validation RMSE: 0.5278
+Epoch 233/800, Loss: 0.0884, R^2: 0.8957, RMSE: 0.2893
+Fold 4, Epoch 233, Validation R^2: 0.8207, Validation RMSE: 0.4155
+Epoch 234/800, Loss: 0.0692, R^2: 0.9194, RMSE: 0.2589
+Fold 4, Epoch 234, Validation R^2: 0.8370, Validation RMSE: 0.3961
+Epoch 235/800, Loss: 0.0509, R^2: 0.9358, RMSE: 0.2219
+Fold 4, Epoch 235, Validation R^2: 0.8254, Validation RMSE: 0.4100
+Epoch 236/800, Loss: 0.0429, R^2: 0.9433, RMSE: 0.2027
+Fold 4, Epoch 236, Validation R^2: 0.7370, Validation RMSE: 0.5032
+Epoch 237/800, Loss: 0.0884, R^2: 0.8900, RMSE: 0.2850
+Fold 4, Epoch 237, Validation R^2: 0.6529, Validation RMSE: 0.5781
+Epoch 238/800, Loss: 0.1104, R^2: 0.8608, RMSE: 0.3250
+Fold 4, Epoch 238, Validation R^2: 0.8532, Validation RMSE: 0.3759
+Epoch 239/800, Loss: 0.0721, R^2: 0.9072, RMSE: 0.2620
+Fold 4, Epoch 239, Validation R^2: 0.8133, Validation RMSE: 0.4240
+Epoch 240/800, Loss: 0.0527, R^2: 0.9425, RMSE: 0.2254
+Fold 4, Epoch 240, Validation R^2: 0.8057, Validation RMSE: 0.4325
+Early stopping for rmse at epoch 240
+Fold 5/5
+Epoch 1/800, Loss: 0.9701, R^2: 0.0276, RMSE: 0.9577
+Fold 5, Epoch 1, Validation R^2: 0.1618, Validation RMSE: 0.9289
+Epoch 2/800, Loss: 0.8009, R^2: 0.2318, RMSE: 0.8637
+Fold 5, Epoch 2, Validation R^2: 0.3114, Validation RMSE: 0.8419
+Epoch 3/800, Loss: 0.6534, R^2: 0.3020, RMSE: 0.7716
+Fold 5, Epoch 3, Validation R^2: 0.4189, Validation RMSE: 0.7734
+Epoch 4/800, Loss: 0.6065, R^2: 0.4710, RMSE: 0.7293
+Fold 5, Epoch 4, Validation R^2: 0.4639, Validation RMSE: 0.7428
+Epoch 5/800, Loss: 0.5269, R^2: 0.5049, RMSE: 0.6909
+Fold 5, Epoch 5, Validation R^2: 0.5010, Validation RMSE: 0.7167
+Epoch 6/800, Loss: 0.4956, R^2: 0.5236, RMSE: 0.6784
+Fold 5, Epoch 6, Validation R^2: 0.5252, Validation RMSE: 0.6991
+Epoch 7/800, Loss: 0.4661, R^2: 0.5510, RMSE: 0.6553
+Fold 5, Epoch 7, Validation R^2: 0.5474, Validation RMSE: 0.6826
+Epoch 8/800, Loss: 0.4361, R^2: 0.5698, RMSE: 0.6345
+Fold 5, Epoch 8, Validation R^2: 0.5709, Validation RMSE: 0.6646
+Epoch 9/800, Loss: 0.4526, R^2: 0.5992, RMSE: 0.6397
+Fold 5, Epoch 9, Validation R^2: 0.5864, Validation RMSE: 0.6525
+Epoch 10/800, Loss: 0.4049, R^2: 0.6252, RMSE: 0.5851
+Fold 5, Epoch 10, Validation R^2: 0.5760, Validation RMSE: 0.6606
+Epoch 11/800, Loss: 0.4072, R^2: 0.6272, RMSE: 0.5838
+Fold 5, Epoch 11, Validation R^2: 0.6201, Validation RMSE: 0.6254
+Epoch 12/800, Loss: 0.4309, R^2: 0.6381, RMSE: 0.6017
+Fold 5, Epoch 12, Validation R^2: 0.6412, Validation RMSE: 0.6077
+Epoch 13/800, Loss: 0.3608, R^2: 0.6633, RMSE: 0.5675
+Fold 5, Epoch 13, Validation R^2: 0.6561, Validation RMSE: 0.5950
+Epoch 14/800, Loss: 0.3560, R^2: 0.6807, RMSE: 0.5640
+Fold 5, Epoch 14, Validation R^2: 0.6755, Validation RMSE: 0.5780
+Epoch 15/800, Loss: 0.3349, R^2: 0.6628, RMSE: 0.5481
+Fold 5, Epoch 15, Validation R^2: 0.6869, Validation RMSE: 0.5677
+Epoch 16/800, Loss: 0.3168, R^2: 0.7140, RMSE: 0.5351
+Fold 5, Epoch 16, Validation R^2: 0.6964, Validation RMSE: 0.5590
+Epoch 17/800, Loss: 0.3290, R^2: 0.7366, RMSE: 0.5156
+Fold 5, Epoch 17, Validation R^2: 0.7126, Validation RMSE: 0.5439
+Epoch 18/800, Loss: 0.2857, R^2: 0.7595, RMSE: 0.4902
+Fold 5, Epoch 18, Validation R^2: 0.7221, Validation RMSE: 0.5348
+Epoch 19/800, Loss: 0.2661, R^2: 0.7547, RMSE: 0.4753
+Fold 5, Epoch 19, Validation R^2: 0.7268, Validation RMSE: 0.5303
+Epoch 20/800, Loss: 0.2722, R^2: 0.7655, RMSE: 0.4883
+Fold 5, Epoch 20, Validation R^2: 0.7358, Validation RMSE: 0.5214
+Epoch 21/800, Loss: 0.2438, R^2: 0.7851, RMSE: 0.4629
+Fold 5, Epoch 21, Validation R^2: 0.7439, Validation RMSE: 0.5135
+Epoch 22/800, Loss: 0.2409, R^2: 0.7885, RMSE: 0.4660
+Fold 5, Epoch 22, Validation R^2: 0.7515, Validation RMSE: 0.5057
+Epoch 23/800, Loss: 0.2292, R^2: 0.7997, RMSE: 0.4500
+Fold 5, Epoch 23, Validation R^2: 0.7519, Validation RMSE: 0.5053
+Epoch 24/800, Loss: 0.2193, R^2: 0.8100, RMSE: 0.4233
+Fold 5, Epoch 24, Validation R^2: 0.7582, Validation RMSE: 0.4988
+Epoch 25/800, Loss: 0.2128, R^2: 0.8144, RMSE: 0.4305
+Fold 5, Epoch 25, Validation R^2: 0.7658, Validation RMSE: 0.4910
+Epoch 26/800, Loss: 0.2049, R^2: 0.8227, RMSE: 0.4109
+Fold 5, Epoch 26, Validation R^2: 0.7721, Validation RMSE: 0.4844
+Epoch 27/800, Loss: 0.2030, R^2: 0.8187, RMSE: 0.4246
+Fold 5, Epoch 27, Validation R^2: 0.7777, Validation RMSE: 0.4783
+Epoch 28/800, Loss: 0.1990, R^2: 0.8279, RMSE: 0.4129
+Fold 5, Epoch 28, Validation R^2: 0.7826, Validation RMSE: 0.4730
+Epoch 29/800, Loss: 0.1892, R^2: 0.8487, RMSE: 0.3897
+Fold 5, Epoch 29, Validation R^2: 0.7821, Validation RMSE: 0.4736
+Epoch 30/800, Loss: 0.1977, R^2: 0.8411, RMSE: 0.4061
+Fold 5, Epoch 30, Validation R^2: 0.7855, Validation RMSE: 0.4699
+Epoch 31/800, Loss: 0.1784, R^2: 0.8409, RMSE: 0.3895
+Fold 5, Epoch 31, Validation R^2: 0.8000, Validation RMSE: 0.4538
+Epoch 32/800, Loss: 0.1860, R^2: 0.8423, RMSE: 0.4029
+Fold 5, Epoch 32, Validation R^2: 0.7986, Validation RMSE: 0.4553
+Epoch 33/800, Loss: 0.1669, R^2: 0.8578, RMSE: 0.3661
+Fold 5, Epoch 33, Validation R^2: 0.8021, Validation RMSE: 0.4514
+Epoch 34/800, Loss: 0.1588, R^2: 0.8579, RMSE: 0.3694
+Fold 5, Epoch 34, Validation R^2: 0.8092, Validation RMSE: 0.4432
+Epoch 35/800, Loss: 0.1701, R^2: 0.8619, RMSE: 0.3669
+Fold 5, Epoch 35, Validation R^2: 0.8167, Validation RMSE: 0.4343
+Epoch 36/800, Loss: 0.1487, R^2: 0.8793, RMSE: 0.3395
+Fold 5, Epoch 36, Validation R^2: 0.8189, Validation RMSE: 0.4317
+Epoch 37/800, Loss: 0.1435, R^2: 0.8776, RMSE: 0.3445
+Fold 5, Epoch 37, Validation R^2: 0.8241, Validation RMSE: 0.4255
+Epoch 38/800, Loss: 0.1415, R^2: 0.8883, RMSE: 0.3284
+Fold 5, Epoch 38, Validation R^2: 0.8253, Validation RMSE: 0.4240
+Epoch 39/800, Loss: 0.1414, R^2: 0.8920, RMSE: 0.3253
+Fold 5, Epoch 39, Validation R^2: 0.8248, Validation RMSE: 0.4247
+Epoch 40/800, Loss: 0.1361, R^2: 0.8957, RMSE: 0.3117
+Fold 5, Epoch 40, Validation R^2: 0.8305, Validation RMSE: 0.4177
+Epoch 41/800, Loss: 0.1312, R^2: 0.8924, RMSE: 0.3159
+Fold 5, Epoch 41, Validation R^2: 0.8257, Validation RMSE: 0.4236
+Epoch 42/800, Loss: 0.1270, R^2: 0.8827, RMSE: 0.3246
+Fold 5, Epoch 42, Validation R^2: 0.8409, Validation RMSE: 0.4046
+Epoch 43/800, Loss: 0.1264, R^2: 0.8862, RMSE: 0.3296
+Fold 5, Epoch 43, Validation R^2: 0.8375, Validation RMSE: 0.4090
+Epoch 44/800, Loss: 0.2348, R^2: 0.8061, RMSE: 0.4020
+Fold 5, Epoch 44, Validation R^2: 0.6558, Validation RMSE: 0.5952
+Epoch 45/800, Loss: 0.2822, R^2: 0.7685, RMSE: 0.4671
+Fold 5, Epoch 45, Validation R^2: 0.7242, Validation RMSE: 0.5328
+Epoch 46/800, Loss: 0.2063, R^2: 0.8205, RMSE: 0.4137
+Fold 5, Epoch 46, Validation R^2: 0.7198, Validation RMSE: 0.5371
+Epoch 47/800, Loss: 0.1810, R^2: 0.8310, RMSE: 0.3933
+Fold 5, Epoch 47, Validation R^2: 0.7826, Validation RMSE: 0.4731
+Epoch 48/800, Loss: 0.1550, R^2: 0.8608, RMSE: 0.3679
+Fold 5, Epoch 48, Validation R^2: 0.8283, Validation RMSE: 0.4204
+Epoch 49/800, Loss: 0.1367, R^2: 0.8751, RMSE: 0.3408
+Fold 5, Epoch 49, Validation R^2: 0.8495, Validation RMSE: 0.3936
+Epoch 50/800, Loss: 0.1287, R^2: 0.8875, RMSE: 0.3337
+Fold 5, Epoch 50, Validation R^2: 0.8481, Validation RMSE: 0.3954
+Epoch 51/800, Loss: 0.1190, R^2: 0.8973, RMSE: 0.3175
+Fold 5, Epoch 51, Validation R^2: 0.8484, Validation RMSE: 0.3950
+Epoch 52/800, Loss: 0.1264, R^2: 0.8941, RMSE: 0.3181
+Fold 5, Epoch 52, Validation R^2: 0.8569, Validation RMSE: 0.3838
+Epoch 53/800, Loss: 0.1371, R^2: 0.8869, RMSE: 0.3304
+Fold 5, Epoch 53, Validation R^2: 0.8612, Validation RMSE: 0.3779
+Epoch 54/800, Loss: 0.1286, R^2: 0.8746, RMSE: 0.3369
+Fold 5, Epoch 54, Validation R^2: 0.8556, Validation RMSE: 0.3855
+Epoch 55/800, Loss: 0.1242, R^2: 0.8767, RMSE: 0.3297
+Fold 5, Epoch 55, Validation R^2: 0.8529, Validation RMSE: 0.3891
+Epoch 56/800, Loss: 0.1168, R^2: 0.8835, RMSE: 0.3186
+Fold 5, Epoch 56, Validation R^2: 0.8479, Validation RMSE: 0.3956
+Epoch 57/800, Loss: 0.0998, R^2: 0.9132, RMSE: 0.2890
+Fold 5, Epoch 57, Validation R^2: 0.8692, Validation RMSE: 0.3669
+Epoch 58/800, Loss: 0.0925, R^2: 0.9269, RMSE: 0.2637
+Fold 5, Epoch 58, Validation R^2: 0.8762, Validation RMSE: 0.3570
+Epoch 59/800, Loss: 0.0870, R^2: 0.9264, RMSE: 0.2632
+Fold 5, Epoch 59, Validation R^2: 0.8773, Validation RMSE: 0.3554
+Epoch 60/800, Loss: 0.0842, R^2: 0.9276, RMSE: 0.2609
+Fold 5, Epoch 60, Validation R^2: 0.8663, Validation RMSE: 0.3710
+Epoch 61/800, Loss: 0.0811, R^2: 0.9293, RMSE: 0.2577
+Fold 5, Epoch 61, Validation R^2: 0.8688, Validation RMSE: 0.3675
+Epoch 62/800, Loss: 0.0771, R^2: 0.9363, RMSE: 0.2461
+Fold 5, Epoch 62, Validation R^2: 0.8741, Validation RMSE: 0.3600
+Epoch 63/800, Loss: 0.0746, R^2: 0.9347, RMSE: 0.2475
+Fold 5, Epoch 63, Validation R^2: 0.8766, Validation RMSE: 0.3564
+Epoch 64/800, Loss: 0.0726, R^2: 0.9425, RMSE: 0.2327
+Fold 5, Epoch 64, Validation R^2: 0.8754, Validation RMSE: 0.3582
+Epoch 65/800, Loss: 0.0705, R^2: 0.9380, RMSE: 0.2364
+Fold 5, Epoch 65, Validation R^2: 0.8791, Validation RMSE: 0.3528
+Epoch 66/800, Loss: 0.0679, R^2: 0.9487, RMSE: 0.2186
+Fold 5, Epoch 66, Validation R^2: 0.8787, Validation RMSE: 0.3533
+Epoch 67/800, Loss: 0.0660, R^2: 0.9486, RMSE: 0.2166
+Fold 5, Epoch 67, Validation R^2: 0.8796, Validation RMSE: 0.3520
+Epoch 68/800, Loss: 0.0639, R^2: 0.9455, RMSE: 0.2146
+Fold 5, Epoch 68, Validation R^2: 0.8805, Validation RMSE: 0.3508
+Epoch 69/800, Loss: 0.0627, R^2: 0.9464, RMSE: 0.2241
+Fold 5, Epoch 69, Validation R^2: 0.8809, Validation RMSE: 0.3502
+Epoch 70/800, Loss: 0.0606, R^2: 0.9541, RMSE: 0.2083
+Fold 5, Epoch 70, Validation R^2: 0.8841, Validation RMSE: 0.3454
+Epoch 71/800, Loss: 0.0637, R^2: 0.9447, RMSE: 0.2262
+Fold 5, Epoch 71, Validation R^2: 0.8842, Validation RMSE: 0.3453
+Epoch 72/800, Loss: 0.0573, R^2: 0.9542, RMSE: 0.2043
+Fold 5, Epoch 72, Validation R^2: 0.8844, Validation RMSE: 0.3449
+Epoch 73/800, Loss: 0.0562, R^2: 0.9589, RMSE: 0.1990
+Fold 5, Epoch 73, Validation R^2: 0.8851, Validation RMSE: 0.3439
+Epoch 74/800, Loss: 0.0549, R^2: 0.9528, RMSE: 0.2127
+Fold 5, Epoch 74, Validation R^2: 0.8825, Validation RMSE: 0.3478
+Epoch 75/800, Loss: 0.0599, R^2: 0.9589, RMSE: 0.2021
+Fold 5, Epoch 75, Validation R^2: 0.8830, Validation RMSE: 0.3470
+Epoch 76/800, Loss: 0.0523, R^2: 0.9617, RMSE: 0.1898
+Fold 5, Epoch 76, Validation R^2: 0.8853, Validation RMSE: 0.3437
+Epoch 77/800, Loss: 0.0507, R^2: 0.9585, RMSE: 0.1919
+Fold 5, Epoch 77, Validation R^2: 0.8888, Validation RMSE: 0.3383
+Epoch 78/800, Loss: 0.0499, R^2: 0.9567, RMSE: 0.1894
+Fold 5, Epoch 78, Validation R^2: 0.8877, Validation RMSE: 0.3399
+Epoch 79/800, Loss: 0.0485, R^2: 0.9528, RMSE: 0.1864
+Fold 5, Epoch 79, Validation R^2: 0.8877, Validation RMSE: 0.3400
+Epoch 80/800, Loss: 0.0504, R^2: 0.9596, RMSE: 0.1962
+Fold 5, Epoch 80, Validation R^2: 0.8880, Validation RMSE: 0.3395
+Epoch 81/800, Loss: 0.0499, R^2: 0.9639, RMSE: 0.1854
+Fold 5, Epoch 81, Validation R^2: 0.8882, Validation RMSE: 0.3392
+Epoch 82/800, Loss: 0.0451, R^2: 0.9647, RMSE: 0.1825
+Fold 5, Epoch 82, Validation R^2: 0.8903, Validation RMSE: 0.3360
+Epoch 83/800, Loss: 0.0440, R^2: 0.9608, RMSE: 0.1869
+Fold 5, Epoch 83, Validation R^2: 0.8893, Validation RMSE: 0.3375
+Epoch 84/800, Loss: 0.0433, R^2: 0.9639, RMSE: 0.1792
+Fold 5, Epoch 84, Validation R^2: 0.8906, Validation RMSE: 0.3355
+Epoch 85/800, Loss: 0.0422, R^2: 0.9665, RMSE: 0.1765
+Fold 5, Epoch 85, Validation R^2: 0.8907, Validation RMSE: 0.3354
+Epoch 86/800, Loss: 0.0414, R^2: 0.9678, RMSE: 0.1697
+Fold 5, Epoch 86, Validation R^2: 0.8917, Validation RMSE: 0.3339
+Epoch 87/800, Loss: 0.0435, R^2: 0.9673, RMSE: 0.1758
+Fold 5, Epoch 87, Validation R^2: 0.8916, Validation RMSE: 0.3340
+Epoch 88/800, Loss: 0.0398, R^2: 0.9731, RMSE: 0.1543
+Fold 5, Epoch 88, Validation R^2: 0.8902, Validation RMSE: 0.3361
+Epoch 89/800, Loss: 0.0444, R^2: 0.9655, RMSE: 0.1780
+Fold 5, Epoch 89, Validation R^2: 0.8903, Validation RMSE: 0.3361
+Epoch 90/800, Loss: 0.0439, R^2: 0.9674, RMSE: 0.1758
+Fold 5, Epoch 90, Validation R^2: 0.8903, Validation RMSE: 0.3361
+Epoch 91/800, Loss: 0.0379, R^2: 0.9669, RMSE: 0.1700
+Fold 5, Epoch 91, Validation R^2: 0.8882, Validation RMSE: 0.3392
+Epoch 92/800, Loss: 0.0374, R^2: 0.9735, RMSE: 0.1539
+Fold 5, Epoch 92, Validation R^2: 0.8898, Validation RMSE: 0.3369
+Epoch 93/800, Loss: 0.0379, R^2: 0.9685, RMSE: 0.1723
+Fold 5, Epoch 93, Validation R^2: 0.8912, Validation RMSE: 0.3346
+Epoch 94/800, Loss: 0.0360, R^2: 0.9696, RMSE: 0.1569
+Fold 5, Epoch 94, Validation R^2: 0.8902, Validation RMSE: 0.3363
+Epoch 95/800, Loss: 0.0352, R^2: 0.9672, RMSE: 0.1665
+Fold 5, Epoch 95, Validation R^2: 0.8905, Validation RMSE: 0.3357
+Epoch 96/800, Loss: 0.0391, R^2: 0.9711, RMSE: 0.1659
+Fold 5, Epoch 96, Validation R^2: 0.8896, Validation RMSE: 0.3371
+Epoch 97/800, Loss: 0.0341, R^2: 0.9687, RMSE: 0.1635
+Fold 5, Epoch 97, Validation R^2: 0.8915, Validation RMSE: 0.3342
+Epoch 98/800, Loss: 0.0349, R^2: 0.9710, RMSE: 0.1642
+Fold 5, Epoch 98, Validation R^2: 0.8890, Validation RMSE: 0.3380
+Epoch 99/800, Loss: 0.0340, R^2: 0.9700, RMSE: 0.1572
+Fold 5, Epoch 99, Validation R^2: 0.8918, Validation RMSE: 0.3337
+Epoch 100/800, Loss: 0.0339, R^2: 0.9676, RMSE: 0.1676
+Fold 5, Epoch 100, Validation R^2: 0.8916, Validation RMSE: 0.3341
+Epoch 101/800, Loss: 0.0323, R^2: 0.9706, RMSE: 0.1606
+Fold 5, Epoch 101, Validation R^2: 0.8911, Validation RMSE: 0.3348
+Epoch 102/800, Loss: 0.0340, R^2: 0.9728, RMSE: 0.1579
+Fold 5, Epoch 102, Validation R^2: 0.8942, Validation RMSE: 0.3300
+Epoch 103/800, Loss: 0.0336, R^2: 0.9720, RMSE: 0.1535
+Fold 5, Epoch 103, Validation R^2: 0.8838, Validation RMSE: 0.3458
+Epoch 104/800, Loss: 0.0320, R^2: 0.9739, RMSE: 0.1520
+Fold 5, Epoch 104, Validation R^2: 0.8896, Validation RMSE: 0.3370
+Epoch 105/800, Loss: 0.0314, R^2: 0.9760, RMSE: 0.1452
+Fold 5, Epoch 105, Validation R^2: 0.8912, Validation RMSE: 0.3347
+Epoch 106/800, Loss: 0.0340, R^2: 0.9710, RMSE: 0.1593
+Fold 5, Epoch 106, Validation R^2: 0.8899, Validation RMSE: 0.3367
+Epoch 107/800, Loss: 0.0299, R^2: 0.9796, RMSE: 0.1385
+Fold 5, Epoch 107, Validation R^2: 0.8881, Validation RMSE: 0.3394
+Epoch 108/800, Loss: 0.0274, R^2: 0.9794, RMSE: 0.1384
+Fold 5, Epoch 108, Validation R^2: 0.8857, Validation RMSE: 0.3431
+Epoch 109/800, Loss: 0.0276, R^2: 0.9785, RMSE: 0.1384
+Fold 5, Epoch 109, Validation R^2: 0.8806, Validation RMSE: 0.3506
+Epoch 110/800, Loss: 0.0294, R^2: 0.9719, RMSE: 0.1489
+Fold 5, Epoch 110, Validation R^2: 0.8797, Validation RMSE: 0.3520
+Epoch 111/800, Loss: 0.0280, R^2: 0.9774, RMSE: 0.1441
+Fold 5, Epoch 111, Validation R^2: 0.8795, Validation RMSE: 0.3521
+Epoch 112/800, Loss: 0.0281, R^2: 0.9782, RMSE: 0.1431
+Fold 5, Epoch 112, Validation R^2: 0.8823, Validation RMSE: 0.3481
+Epoch 113/800, Loss: 0.0279, R^2: 0.9755, RMSE: 0.1488
+Fold 5, Epoch 113, Validation R^2: 0.8781, Validation RMSE: 0.3542
+Epoch 114/800, Loss: 0.0260, R^2: 0.9806, RMSE: 0.1371
+Fold 5, Epoch 114, Validation R^2: 0.8724, Validation RMSE: 0.3624
+Epoch 115/800, Loss: 0.0278, R^2: 0.9750, RMSE: 0.1477
+Fold 5, Epoch 115, Validation R^2: 0.8710, Validation RMSE: 0.3644
+Epoch 116/800, Loss: 0.0266, R^2: 0.9768, RMSE: 0.1475
+Fold 5, Epoch 116, Validation R^2: 0.8831, Validation RMSE: 0.3469
+Epoch 117/800, Loss: 0.0245, R^2: 0.9801, RMSE: 0.1355
+Fold 5, Epoch 117, Validation R^2: 0.8813, Validation RMSE: 0.3495
+Epoch 118/800, Loss: 0.0274, R^2: 0.9778, RMSE: 0.1438
+Fold 5, Epoch 118, Validation R^2: 0.8976, Validation RMSE: 0.3247
+Epoch 119/800, Loss: 0.0288, R^2: 0.9784, RMSE: 0.1456
+Fold 5, Epoch 119, Validation R^2: 0.8977, Validation RMSE: 0.3246
+Epoch 120/800, Loss: 0.0339, R^2: 0.9660, RMSE: 0.1685
+Fold 5, Epoch 120, Validation R^2: 0.8947, Validation RMSE: 0.3292
+Epoch 121/800, Loss: 0.0380, R^2: 0.9699, RMSE: 0.1747
+Fold 5, Epoch 121, Validation R^2: 0.8868, Validation RMSE: 0.3414
+Epoch 122/800, Loss: 0.0361, R^2: 0.9672, RMSE: 0.1749
+Fold 5, Epoch 122, Validation R^2: 0.8609, Validation RMSE: 0.3784
+Epoch 123/800, Loss: 0.0484, R^2: 0.9482, RMSE: 0.2120
+Fold 5, Epoch 123, Validation R^2: 0.8876, Validation RMSE: 0.3402
+Epoch 124/800, Loss: 0.0332, R^2: 0.9706, RMSE: 0.1666
+Fold 5, Epoch 124, Validation R^2: 0.8773, Validation RMSE: 0.3553
+Epoch 125/800, Loss: 0.0305, R^2: 0.9730, RMSE: 0.1591
+Fold 5, Epoch 125, Validation R^2: 0.8859, Validation RMSE: 0.3427
+Epoch 126/800, Loss: 0.0290, R^2: 0.9720, RMSE: 0.1581
+Fold 5, Epoch 126, Validation R^2: 0.8730, Validation RMSE: 0.3616
+Epoch 127/800, Loss: 0.0322, R^2: 0.9693, RMSE: 0.1688
+Fold 5, Epoch 127, Validation R^2: 0.8832, Validation RMSE: 0.3467
+Epoch 128/800, Loss: 0.0285, R^2: 0.9723, RMSE: 0.1600
+Fold 5, Epoch 128, Validation R^2: 0.8954, Validation RMSE: 0.3282
+Epoch 129/800, Loss: 0.0299, R^2: 0.9708, RMSE: 0.1609
+Fold 5, Epoch 129, Validation R^2: 0.8931, Validation RMSE: 0.3318
+Epoch 130/800, Loss: 0.0232, R^2: 0.9777, RMSE: 0.1423
+Fold 5, Epoch 130, Validation R^2: 0.8988, Validation RMSE: 0.3228
+Epoch 131/800, Loss: 0.0230, R^2: 0.9740, RMSE: 0.1403
+Fold 5, Epoch 131, Validation R^2: 0.8938, Validation RMSE: 0.3306
+Epoch 132/800, Loss: 0.0239, R^2: 0.9783, RMSE: 0.1423
+Fold 5, Epoch 132, Validation R^2: 0.8923, Validation RMSE: 0.3330
+Epoch 133/800, Loss: 0.0255, R^2: 0.9764, RMSE: 0.1465
+Fold 5, Epoch 133, Validation R^2: 0.8835, Validation RMSE: 0.3463
+Epoch 134/800, Loss: 0.0316, R^2: 0.9727, RMSE: 0.1529
+Fold 5, Epoch 134, Validation R^2: 0.8957, Validation RMSE: 0.3277
+Epoch 135/800, Loss: 0.0299, R^2: 0.9662, RMSE: 0.1665
+Fold 5, Epoch 135, Validation R^2: 0.8983, Validation RMSE: 0.3235
+Epoch 136/800, Loss: 0.0297, R^2: 0.9663, RMSE: 0.1599
+Fold 5, Epoch 136, Validation R^2: 0.8770, Validation RMSE: 0.3558
+Epoch 137/800, Loss: 0.0415, R^2: 0.9614, RMSE: 0.1896
+Fold 5, Epoch 137, Validation R^2: 0.9136, Validation RMSE: 0.2982
+Epoch 138/800, Loss: 0.0415, R^2: 0.9576, RMSE: 0.1928
+Fold 5, Epoch 138, Validation R^2: 0.8774, Validation RMSE: 0.3553
+Epoch 139/800, Loss: 0.0400, R^2: 0.9597, RMSE: 0.1886
+Fold 5, Epoch 139, Validation R^2: 0.9005, Validation RMSE: 0.3201
+Epoch 140/800, Loss: 0.0345, R^2: 0.9628, RMSE: 0.1765
+Fold 5, Epoch 140, Validation R^2: 0.9126, Validation RMSE: 0.3000
+Epoch 141/800, Loss: 0.0355, R^2: 0.9618, RMSE: 0.1767
+Fold 5, Epoch 141, Validation R^2: 0.8938, Validation RMSE: 0.3307
+Epoch 142/800, Loss: 0.0329, R^2: 0.9658, RMSE: 0.1757
+Fold 5, Epoch 142, Validation R^2: 0.9113, Validation RMSE: 0.3021
+Epoch 143/800, Loss: 0.0307, R^2: 0.9648, RMSE: 0.1621
+Fold 5, Epoch 143, Validation R^2: 0.9172, Validation RMSE: 0.2919
+Epoch 144/800, Loss: 0.0262, R^2: 0.9717, RMSE: 0.1527
+Fold 5, Epoch 144, Validation R^2: 0.9098, Validation RMSE: 0.3046
+Epoch 145/800, Loss: 0.0298, R^2: 0.9725, RMSE: 0.1626
+Fold 5, Epoch 145, Validation R^2: 0.9131, Validation RMSE: 0.2991
+Epoch 146/800, Loss: 0.0349, R^2: 0.9678, RMSE: 0.1690
+Fold 5, Epoch 146, Validation R^2: 0.9147, Validation RMSE: 0.2963
+Epoch 147/800, Loss: 0.0270, R^2: 0.9693, RMSE: 0.1532
+Fold 5, Epoch 147, Validation R^2: 0.9081, Validation RMSE: 0.3075
+Epoch 148/800, Loss: 0.0265, R^2: 0.9728, RMSE: 0.1512
+Fold 5, Epoch 148, Validation R^2: 0.9114, Validation RMSE: 0.3020
+Epoch 149/800, Loss: 0.0258, R^2: 0.9734, RMSE: 0.1514
+Fold 5, Epoch 149, Validation R^2: 0.9136, Validation RMSE: 0.2982
+Epoch 150/800, Loss: 0.0307, R^2: 0.9702, RMSE: 0.1693
+Fold 5, Epoch 150, Validation R^2: 0.9235, Validation RMSE: 0.2806
+Epoch 151/800, Loss: 0.0382, R^2: 0.9589, RMSE: 0.1865
+Fold 5, Epoch 151, Validation R^2: 0.9263, Validation RMSE: 0.2754
+Epoch 152/800, Loss: 0.0310, R^2: 0.9714, RMSE: 0.1674
+Fold 5, Epoch 152, Validation R^2: 0.9127, Validation RMSE: 0.2998
+Epoch 153/800, Loss: 0.0300, R^2: 0.9697, RMSE: 0.1671
+Fold 5, Epoch 153, Validation R^2: 0.9149, Validation RMSE: 0.2959
+Epoch 154/800, Loss: 0.0304, R^2: 0.9651, RMSE: 0.1634
+Fold 5, Epoch 154, Validation R^2: 0.9164, Validation RMSE: 0.2934
+Epoch 155/800, Loss: 0.0276, R^2: 0.9734, RMSE: 0.1551
+Fold 5, Epoch 155, Validation R^2: 0.9232, Validation RMSE: 0.2812
+Epoch 156/800, Loss: 0.0342, R^2: 0.9649, RMSE: 0.1761
+Fold 5, Epoch 156, Validation R^2: 0.9290, Validation RMSE: 0.2704
+Epoch 157/800, Loss: 0.0320, R^2: 0.9660, RMSE: 0.1699
+Fold 5, Epoch 157, Validation R^2: 0.9193, Validation RMSE: 0.2883
+Epoch 158/800, Loss: 0.0300, R^2: 0.9706, RMSE: 0.1665
+Fold 5, Epoch 158, Validation R^2: 0.9060, Validation RMSE: 0.3111
+Epoch 159/800, Loss: 0.0326, R^2: 0.9649, RMSE: 0.1718
+Fold 5, Epoch 159, Validation R^2: 0.9164, Validation RMSE: 0.2934
+Epoch 160/800, Loss: 0.0251, R^2: 0.9719, RMSE: 0.1504
+Fold 5, Epoch 160, Validation R^2: 0.9105, Validation RMSE: 0.3034
+Epoch 161/800, Loss: 0.0225, R^2: 0.9773, RMSE: 0.1428
+Fold 5, Epoch 161, Validation R^2: 0.9196, Validation RMSE: 0.2877
+Epoch 162/800, Loss: 0.0234, R^2: 0.9752, RMSE: 0.1477
+Fold 5, Epoch 162, Validation R^2: 0.9214, Validation RMSE: 0.2844
+Epoch 163/800, Loss: 0.0222, R^2: 0.9775, RMSE: 0.1450
+Fold 5, Epoch 163, Validation R^2: 0.9065, Validation RMSE: 0.3103
+Epoch 164/800, Loss: 0.0184, R^2: 0.9753, RMSE: 0.1320
+Fold 5, Epoch 164, Validation R^2: 0.9154, Validation RMSE: 0.2950
+Epoch 165/800, Loss: 0.0157, R^2: 0.9851, RMSE: 0.1206
+Fold 5, Epoch 165, Validation R^2: 0.9200, Validation RMSE: 0.2869
+Epoch 166/800, Loss: 0.0141, R^2: 0.9850, RMSE: 0.1089
+Fold 5, Epoch 166, Validation R^2: 0.9206, Validation RMSE: 0.2858
+Epoch 167/800, Loss: 0.0140, R^2: 0.9849, RMSE: 0.1113
+Fold 5, Epoch 167, Validation R^2: 0.9216, Validation RMSE: 0.2841
+Epoch 168/800, Loss: 0.0131, R^2: 0.9794, RMSE: 0.1079
+Fold 5, Epoch 168, Validation R^2: 0.9207, Validation RMSE: 0.2856
+Epoch 169/800, Loss: 0.0137, R^2: 0.9882, RMSE: 0.1068
+Fold 5, Epoch 169, Validation R^2: 0.9117, Validation RMSE: 0.3014
+Epoch 170/800, Loss: 0.0111, R^2: 0.9892, RMSE: 0.0997
+Fold 5, Epoch 170, Validation R^2: 0.9149, Validation RMSE: 0.2959
+Epoch 171/800, Loss: 0.0112, R^2: 0.9901, RMSE: 0.0949
+Fold 5, Epoch 171, Validation R^2: 0.9259, Validation RMSE: 0.2761
+Epoch 172/800, Loss: 0.0108, R^2: 0.9904, RMSE: 0.0963
+Fold 5, Epoch 172, Validation R^2: 0.9112, Validation RMSE: 0.3023
+Epoch 173/800, Loss: 0.0098, R^2: 0.9910, RMSE: 0.0908
+Fold 5, Epoch 173, Validation R^2: 0.9213, Validation RMSE: 0.2847
+Epoch 174/800, Loss: 0.0094, R^2: 0.9912, RMSE: 0.0901
+Fold 5, Epoch 174, Validation R^2: 0.9144, Validation RMSE: 0.2968
+Epoch 175/800, Loss: 0.0099, R^2: 0.9903, RMSE: 0.0947
+Fold 5, Epoch 175, Validation R^2: 0.9166, Validation RMSE: 0.2930
+Epoch 176/800, Loss: 0.0095, R^2: 0.9899, RMSE: 0.0894
+Fold 5, Epoch 176, Validation R^2: 0.9157, Validation RMSE: 0.2946
+Epoch 177/800, Loss: 0.0085, R^2: 0.9924, RMSE: 0.0815
+Fold 5, Epoch 177, Validation R^2: 0.9166, Validation RMSE: 0.2930
+Epoch 178/800, Loss: 0.0084, R^2: 0.9921, RMSE: 0.0846
+Fold 5, Epoch 178, Validation R^2: 0.9134, Validation RMSE: 0.2986
+Epoch 179/800, Loss: 0.0084, R^2: 0.9925, RMSE: 0.0829
+Fold 5, Epoch 179, Validation R^2: 0.9218, Validation RMSE: 0.2837
+Epoch 180/800, Loss: 0.0072, R^2: 0.9938, RMSE: 0.0724
+Fold 5, Epoch 180, Validation R^2: 0.9178, Validation RMSE: 0.2909
+Epoch 181/800, Loss: 0.0069, R^2: 0.9936, RMSE: 0.0754
+Fold 5, Epoch 181, Validation R^2: 0.9185, Validation RMSE: 0.2896
+Epoch 182/800, Loss: 0.0079, R^2: 0.9940, RMSE: 0.0763
+Fold 5, Epoch 182, Validation R^2: 0.9179, Validation RMSE: 0.2906
+Epoch 183/800, Loss: 0.0076, R^2: 0.9929, RMSE: 0.0805
+Fold 5, Epoch 183, Validation R^2: 0.9184, Validation RMSE: 0.2899
+Epoch 184/800, Loss: 0.0074, R^2: 0.9929, RMSE: 0.0797
+Fold 5, Epoch 184, Validation R^2: 0.9126, Validation RMSE: 0.3000
+Epoch 185/800, Loss: 0.0077, R^2: 0.9928, RMSE: 0.0804
+Fold 5, Epoch 185, Validation R^2: 0.9194, Validation RMSE: 0.2880
+Epoch 186/800, Loss: 0.0077, R^2: 0.9893, RMSE: 0.0838
+Fold 5, Epoch 186, Validation R^2: 0.9179, Validation RMSE: 0.2907
+Epoch 187/800, Loss: 0.0068, R^2: 0.9918, RMSE: 0.0760
+Fold 5, Epoch 187, Validation R^2: 0.9144, Validation RMSE: 0.2969
+Epoch 188/800, Loss: 0.0066, R^2: 0.9937, RMSE: 0.0758
+Fold 5, Epoch 188, Validation R^2: 0.9154, Validation RMSE: 0.2951
+Epoch 189/800, Loss: 0.0069, R^2: 0.9926, RMSE: 0.0793
+Fold 5, Epoch 189, Validation R^2: 0.9113, Validation RMSE: 0.3022
+Epoch 190/800, Loss: 0.0066, R^2: 0.9926, RMSE: 0.0763
+Fold 5, Epoch 190, Validation R^2: 0.9156, Validation RMSE: 0.2947
+Epoch 191/800, Loss: 0.0062, R^2: 0.9940, RMSE: 0.0726
+Fold 5, Epoch 191, Validation R^2: 0.9094, Validation RMSE: 0.3054
+Epoch 192/800, Loss: 0.0070, R^2: 0.9918, RMSE: 0.0769
+Fold 5, Epoch 192, Validation R^2: 0.9137, Validation RMSE: 0.2980
+Epoch 193/800, Loss: 0.0069, R^2: 0.9919, RMSE: 0.0797
+Fold 5, Epoch 193, Validation R^2: 0.9085, Validation RMSE: 0.3069
+Epoch 194/800, Loss: 0.0078, R^2: 0.9926, RMSE: 0.0847
+Fold 5, Epoch 194, Validation R^2: 0.9135, Validation RMSE: 0.2984
+Epoch 195/800, Loss: 0.0060, R^2: 0.9937, RMSE: 0.0739
+Fold 5, Epoch 195, Validation R^2: 0.9151, Validation RMSE: 0.2956
+Epoch 196/800, Loss: 0.0053, R^2: 0.9947, RMSE: 0.0674
+Fold 5, Epoch 196, Validation R^2: 0.9108, Validation RMSE: 0.3030
+Epoch 197/800, Loss: 0.0055, R^2: 0.9944, RMSE: 0.0700
+Fold 5, Epoch 197, Validation R^2: 0.9143, Validation RMSE: 0.2970
+Epoch 198/800, Loss: 0.0053, R^2: 0.9949, RMSE: 0.0685
+Fold 5, Epoch 198, Validation R^2: 0.9100, Validation RMSE: 0.3044
+Epoch 199/800, Loss: 0.0053, R^2: 0.9934, RMSE: 0.0702
+Fold 5, Epoch 199, Validation R^2: 0.9160, Validation RMSE: 0.2940
+Epoch 200/800, Loss: 0.0054, R^2: 0.9943, RMSE: 0.0694
+Fold 5, Epoch 200, Validation R^2: 0.9175, Validation RMSE: 0.2913
+Epoch 201/800, Loss: 0.0054, R^2: 0.9949, RMSE: 0.0691
+Fold 5, Epoch 201, Validation R^2: 0.9161, Validation RMSE: 0.2939
+Epoch 202/800, Loss: 0.0053, R^2: 0.9945, RMSE: 0.0678
+Fold 5, Epoch 202, Validation R^2: 0.9155, Validation RMSE: 0.2949
+Epoch 203/800, Loss: 0.0055, R^2: 0.9923, RMSE: 0.0716
+Fold 5, Epoch 203, Validation R^2: 0.9146, Validation RMSE: 0.2965
+Epoch 204/800, Loss: 0.0054, R^2: 0.9945, RMSE: 0.0697
+Fold 5, Epoch 204, Validation R^2: 0.9121, Validation RMSE: 0.3008
+Epoch 205/800, Loss: 0.0051, R^2: 0.9949, RMSE: 0.0685
+Fold 5, Epoch 205, Validation R^2: 0.9156, Validation RMSE: 0.2948
+Epoch 206/800, Loss: 0.0044, R^2: 0.9949, RMSE: 0.0629
+Fold 5, Epoch 206, Validation R^2: 0.9133, Validation RMSE: 0.2988
+Early stopping for rmse at epoch 206
+Mean R^2 across folds: 0.7673
+Mean RMSE across folds: 0.4817
+Holdout R^2: 0.6727
+Holdout RMSE: 0.4825
+Final results:
+ Mean R^2 and RMSE across folds: 0.7673  0.4817,
+ Holdout R^2 and RMSE: 0.6727  0.4825
